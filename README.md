@@ -104,7 +104,18 @@ bundle exec jekyll serve
 
 ## Deployment
 
-Just commit and push the changes to this repository. GitHub will automatically update the site!
+Building the site locally:
+```
+bundle exec jekyll build
+```
+
+Notice that it is enough for deployment to just commit and push the changes to this repository. GitHub will automatically update the site!
+
+## Updating & customization
+
+There are many strategies in getting updates to the theme. To keep this as hassle-free as possible (focus on content, not on framework), I have chosen to use remote theme approach: the theme comes from its own public repository. Specific tag/branch can be selected (fixed) if necessary, but currently it is not specified ie. the latest version.
+
+To customize things that cannot be configured, the solution is to create local customization files. See the theme [structure](https://mmistakes.github.io/minimal-mistakes/docs/structure/).
 
 ## Troubleshooting
 

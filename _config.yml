@@ -13,15 +13,48 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: tapani.rantakokko.net
-email: 
-description: >- # this means to ignore newlines until "baseurl:"
-  Creator, maker, inventor by attitude. Software developer and CTO by profession. 
-  M.Sc. (Tech) by education. Titles aside, I enjoy learning and doing many things!
+title: Tapani Rantakokko
+title_separator: "|"
+masthead_title: "tapani.rantakokko.net"
+subtitle: "Personal homepage"
+name: "Tapani Rantakokko"
+email:
 twitter_username: trantako
 github_username: trantako
-minimal_mistakes_skin: default
+#facebook:
+#  app_id:  # A Facebook app ID
+#  publisher:  # A Facebook page URL or ID of the publishing entity
+facebook:
+  username: "tapani.rantakokko"  # https://www.facebook.com/tapani.rantakokko
+social:
+  type: Person # Person or Organization (defaults to Person)
+  name: Tapani Rantakokko # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/trantako"
+    - "https://www.facebook.com/tapani.rantakokko"
+    - "https://www.instagram.com/trantako/"
+    - "https://www.linkedin.com/in/tapani-rantakokko-b089571/"
+locale: "en-US"
+description: >- # this means to ignore newlines until "url:"
+  Creator, maker, inventor by attitude. Software developer and CTO by profession. 
+  M.Sc. (Tech) by education. Titles aside, I enjoy learning and doing many things!
+url: "https://tapani.rantakokko.net"
+baseurl: "/"
+repository: "trantako/trantako.github.io"
+#head_scripts:
+#  - https://code.jquery.com/jquery-3.2.1.min.js
+#  - /assets/js/your-custom-head-script.js
+#teaser: /assets/images/500x300.png # this appears as post default image (related posts etc.)
+#logo: "/assets/images/88x88.png" # this appears in front of the site title
+#og_image: /assets/images/site-logo.png # open graph default image
+minimal_mistakes_skin: dirt # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+breadcrumbs: true  # disabled by default, beta feature
 search: true
+#analytics:
+#  provider: "google-gtag"
+#  google:
+#    tracking_id: "UA-1234567-8"
+#    anonymize_ip: false # default
 
 # Build settings
 markdown: kramdown
@@ -30,7 +63,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: FI # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Helsinki
 
 include:
   - _pages
@@ -61,6 +94,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Creator, maker, inventor by attitude. Software developer and CTO by profession. 
   M.Sc. (Tech) by education. Titles aside, I enjoy learning and doing many things!"
+  location : "Oulu, Finland"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -96,7 +130,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
