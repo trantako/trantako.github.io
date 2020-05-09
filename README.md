@@ -52,7 +52,7 @@ sudo apt-get upgrade
 bash
 ```
 
-2. To install Ruby (programming language of Jekyll), add BrightBox repo:
+2. To install Ruby (programming language of Jekyll), add BrightBox repo. Then update apt and install packages for Ruby:
 ```
 sudo apt-add-repository ppa:brightbox/ruby-ng
 sudo apt-get update
@@ -77,7 +77,7 @@ gem install jekyll bundler
 jekyll 4.0.0
 ```
 
-> I had problems when intalling Jekyll without 'sudo'. See [this](https://jekyllrb.com/docs/troubleshooting/#no-sudo) for instructions. This info did not solve everything; I had to re-install Ruby etc. tricks before I got it working. It took several hours of problem solving. Much easier to use native Ubuntu or Mac for running Jekyll.
+> I had problems when intalling Jekyll without 'sudo'. See [this](https://jekyllrb.com/docs/troubleshooting/#no-sudo) for instructions. This info did not solve everything; I had to re-install Ruby etc. tricks before I got it working. It took several hours of problem solving. Much easier to use native Ubuntu or Mac for running Jekyll!
 
 ## Testing
 
@@ -99,6 +99,12 @@ bundle exec jekyll serve
 ```
 
 4. Open Chrome browser and navigate to [localhost:4000](localhost:4000).
+
+5. Once done, CTRL-C in Bash to stop Jekyll.
+
+## Deployment
+
+Just commit and push the changes to this repository. GitHub will automatically update the site!
 
 ## Troubleshooting
 
