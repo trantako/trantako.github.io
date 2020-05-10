@@ -14,8 +14,8 @@ main:
     url: /drawing/
   - title: "3D scanning"
     url: /scan3d/
-  - title: "3D design"
-    url: /design3d/
+  - title: "3D modelling"
+    url: /model3d/
   - title: "3D printing"
     url: /print3d/
   - title: "Scale model"
