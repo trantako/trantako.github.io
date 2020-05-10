@@ -1,67 +1,149 @@
 ---
-title: "Home"
+#title: "Home"
 layout: splash
 permalink: /
-date: 2016-03-23T11:48:41-04:00
+date: 2020-05-10T12:00:00+02:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/landing_cover.jpg
+#  actions:
+#    - label: "Download"
+#      url: "https://github.com/trantako/trantako.github.io"
+  caption: "Photo: Panorama from Pallas, 2015"
+excerpt: "Developer, creator, maker, photographer, musician... Or just an ordinary guy who enjoys re-training his brain with new skills."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
-feature_row:
+  - excerpt: 'I am a firm believer in lifelong learning. I get interested in new things easily. Knowing the versatility of the human brain, my attitude always is "anyone with perseverance can learn to do this". Hence, this personal website is a mix of all things I enjoy to do!<br><br>
+  "Sole ko tehä." `-Lapinmies`'
+feature_row1:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    #image_caption: "caption"
+    alt: "Blog category"
+    title: "Blog"
+    excerpt: "Writings that do not fall into any specific category. Mostly dealing with matters of current or local interest. Sometimes written in Finnish (my native language)."
+    url: "/blog/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    alt: "Software category"
+    title: "Software"
+    excerpt: "By profession, I am a software developer and CTO at Finwe Ltd. Here you'll find content related to software development - especially on sensors and video."
+    url: "/software/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "About category"
+    title: "About me / CV"
+    excerpt: "Who am I and where I come from. What skills I have learned and what are my ambitions professionally and generally in life. Also a formal CV. "
+    url: "/about/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    alt: "Photography category"
+    title: "Photography"
+    excerpt: 'I became interested in photography when my first child was born. She was moving too fast for camera phones of that time, so I got a DSLR.
+    Later I became obsessed with 360-degree photography, mostly focusing on winter landscapes from Muonio, located in Finnish Lapland.'
+    url: "/photography/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
+    alt: "Video category"
+    title: "Video"
+    excerpt: 'At work I have focused on video software since 2013. However, making videos myself is a much newer thing. It started in 2019 when I considered that
+    360-degree cameras are finally mature enough for occasional hobby use.'
+    url: "/video/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+    alt: "Music category"
+    title: "Music"
+    excerpt: 'Music is one of my lifelong hobby projects. I self-thought myself to play piano at the age of 6 or 7. When I was at 1st grade in the elementary school,
+    some visitors demoed a keyboard connected to a computer via MIDI. Mind blown, spent my youth composing music with a similar setup. Recently, I`ve been playing guitars.'
+    url: "/music/"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row5:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "Drawing category"
+    title: "Drawing"
+    excerpt: 'Drawing by hand using nothing but a sheet of paper and a pencil is a form of art that I find interesting. Sometimes I draw nothing for years, and then suddenly get attracted to it again. It is a great way to learn eye-hand coordination.'
+    url: "/drawing/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row6:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "3D Scanning category"
+    title: "3D Scanning"
+    excerpt: "At the age of 14 I was already monetizing my computer skills by by scanning and proof-reading articles for a magazine. Later I became interested in 3D scanning
+    by means of a camera and photogrammetry software. It is amazing how precise 3D models can be created using a camera and some clever math!"
+    url: "/scan3d/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "3D Design category"
+    title: "3D Design"
+    excerpt: "To me, drawing by hand is a form of art - and drawing using a computer is great for designing functional, printable components. This skill is almost mandatory
+    for making the most out of a 3D printer. I find it relaxing type of problem solving - like filling a cross-words puzzle or a sudoku."
+    url: "/design3d/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "3D Printing category"
+    title: "3D Printing"
+    excerpt: "Plastic is probably the most versatile material there is. Being able to print almost any imaginable form within a few hours at home - that is revolutionary for 
+    every creative mind. Getting a 3D printer has been one of the best purchases I've ever made. There is some learning curve, though."
+    url: "/print3d/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row7:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "Scale Model category"
+    title: "Scale Model"
+    excerpt: 'I became interested in photography when my first child was born. She was moving too fast for camera phones of that time, so I got a DSLR.
+    Later I became obsessed with 360-degree photography, mostly focusing on winter landscapes from Muonio, located in Finnish Lapland.'
+    url: "/scalemodel/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row8:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "Lego category"
+    title: "Lego Technic"
+    excerpt: 'At work I have focused on video software since 2013. However, making videos myself is a much newer thing. It started in 2019 when I considered that
+    360-degree cameras are finally mature enough for occasional hobby use.'
+    url: "/lego/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row9:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "E-Bike category"
+    title: "E-Bike"
+    excerpt: 'I became interested in photography when my first child was born. She was moving too fast for camera phones of that time, so I got a DSLR.
+    Later I became obsessed with 360-degree photography, mostly focusing on winter landscapes from Muonio, located in Finnish Lapland.'
+    url: "/ebike/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row1" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row5" type="right" %}
+
+{% include feature_row id="feature_row6" %}
+
+{% include feature_row id="feature_row7" type="left" %}
+
+{% include feature_row id="feature_row8" type="right" %}
+
+{% include feature_row id="feature_row9" type="left" %}

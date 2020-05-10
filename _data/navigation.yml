@@ -1,17 +1,29 @@
 main:
   - title: "Blog"
     url: /blog/
+  - title: "Software"
+    url: /software/
   - title: "Photography"
     description: "Examples and links to my photos"
     url: /photography/
-  - title: "Videos"
-    url: /videos/
+  - title: "Video"
+    url: /video/
   - title: "Music"
     url: /music/
-  - title: "3D printing"
-    url: /printing/
+  - title: "Drawing"
+    url: /drawing/
   - title: "3D scanning"
-    url: /scanning/
+    url: /scan3d/
+  - title: "3D design"
+    url: /design3d/
+  - title: "3D printing"
+    url: /print3d/
+  - title: "Scale model"
+    url: /scalemodel/
+  - title: "Lego"
+    url: /lego/
+  - title: "E-Bike"
+    url: /ebike/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
