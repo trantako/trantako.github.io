@@ -1,4 +1,17 @@
 main:
+  - title: "Blog"
+    url: /blog/
+  - title: "Photography"
+    description: "Examples and links to my photos"
+    url: /photography/
+  - title: "Videos"
+    url: /videos/
+  - title: "Music"
+    url: /music/
+  - title: "3D printing"
+    url: /printing/
+  - title: "3D scanning"
+    url: /scanning/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
