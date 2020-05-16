@@ -20,11 +20,11 @@ I was born in 1978 and lived a happy childhood in the '80s. We had only two TV c
 
 My dad had purchased a large wooden board with 6 pcs of 50 cm feet; this was used as a tabletop for the railroad. I think I had two Märklin H0 extension packs, so it was possible to build a fairly long railroad with multiple sidetracks. With my three sisters, we used ordinary Lego blocks to build a town and Fabuland Lego figures as citizens. 
 
-It looked lively and was nice to play with, but I remember that I always dreamed that one day I'd build a real scenery for the railroad instead of using Lego blocks. This project started about 20 years later in 2005 when I and my wife bought our house and there was finally enough space for a kind of man-cave.
+It looked lively and was nice to play with, but I remember that I always dreamed that one day I'd build a real scenery for the railroad instead of using Lego blocks. This project started about 20 years later in 2005 when I, now a grown-up man, bought a house with my wife, and finally had enough space for a kind of man-cave.
 
-The first couple of years the project progressed slowly. When our first child was born, I moved the railroad project to the garage. It has been there since. There's no heating, so most of the time it is just waiting for the next summer...
+For the first couple of years the project progressed slowly; there was lots of other things to do. When our first child was born, I moved the railroad project to the garage. It has been there since. There's no heating, so most of the time it is just waiting for the next summer...
 
-This page follows the (extremely slow) progress of the railroad project.
+This page follows the (extremely slow) progress of the railroad project. It has taught me a lot about patience!
 
 ## The products
 
@@ -32,7 +32,7 @@ I don't have the boxes anymore, but I found these images from the Internet and I
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/scalemodel/märklin_h0_set-s_2920.jpg" alt="">
-  <figcaption>Märklin H0 SET-S #2920, a kind of starter kit. Pretty sure about this one.</figcaption>
+  <figcaption>Märklin H0 SET-S #2920, a kind of starter kit. Pretty sure I had this one.</figcaption>
 </figure> 
 
 <figure class="align-center">
@@ -45,27 +45,27 @@ I don't have the boxes anymore, but I found these images from the Internet and I
   <figcaption>Märklin SET-H0 E #5192, a track extension kit with 2x electric railroad switches.</figcaption>
 </figure>
 
-## Building principles
+## My Building Principles
 
 Of course, I am fully aware that there are plenty of products from Märklin and others that you can buy to build a nice scale model. Also, there are hobby shops that sell all kinds of products for making the scenery. Furthermore, Youtube, web pages, and hobby clubs provide instructions and guidance.
 
-Yet, doing it like that was never my intention. On purpose, I have not purchased ready-to-use products, looked up instructions, nor participated in clubs. Instead, I have used all kinds of scrap material from my storage, things that I've got from friends, and mostly invented my own ways of doing this. This has been the whole idea for me.
+Yet, doing it like that was never my intention. On purpose, I have not purchased ready-to-use products, looked up instructions, nor participated in clubs. Instead, I have used all kinds of scrap material from my storage, things that I've got from friends for free, and mostly invented my own ways of doing things. This has been the principal idea of the whole project.
 
-When building a scale model, many people aim for 100% realism: the scale, the looks, the ground surface, the trees etc. should all be a perfect down-scaled copy of some real location. 
+When building a scale model, many people aim for 100% realism: the scale, the looks, the ground surface, the trees, the water, etc. should all be a perfect down-scaled copy of some real location. 
 
-I did not have any specific location in mind. Instead, I had many ideas: there should be two mountains, two tunnels, a bridge, a lake, and a village with a railway station. That's quite a lot for a scale model of this size! As a consequence, I'd have to make compromises. For example, a real train track would not have as steep inclines and declines I'd need to use.
+I did not have any specific location in mind. Instead, I had many ideas: there should be two mountains, two tunnels, a bridge, a lake, and a village with a railway station. That's quite a lot for a scale model of this size! As a consequence, I had to make compromises. For example, a real train track would not have as steep inclines and declines that I needed to use.
 
-Furthermore, instead of using a particular real-world location, I chose to use my imagination. I just decided to make some kind of Wild West-themed scene: a small town somewhere in Arizona, US. I even considered whether to use the famous comic book hero Lucky Luke, but gave up on that idea.
+Furthermore, instead of modeling a specific real-world location, I chose to use an imaginary place. I just decided to make some kind of Wild West-themed scene: a small town somewhere in Arizona, US. I even considered whether to use the famous comic book hero Lucky Luke, but gave up on that idea.
 
-## Baseboard
+## The Baseboard
 
 I needed some kind of a large baseboard for the whole project. For building that, I used pieces of an old wardrobe. There are just three walls and a top, as well as some enforcement below the top board to make it sturdy. One side is open, so I can crawl under it to make holes, connect electrical wires, etc.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3cVcCBQLUMYMKKHdKiD6sRmBSdbDUuN4RVDR4qzxzBcdKR3O21xIyIIRq3W1Orcv6UtY0465bH4LuRRo4NHKA4EA-rjfk09sa3TdJxrkHE8D0G5qlchMkOD_EuJYYBSjtx1Lt_LosbS3E3hPe57J1Er=w1194-h895-no?authuser=0)
 
-In the beginning of the project I wanted to have the possibility to move the whole thing in pieces, so I cut another thinner board in 6 pieces, put these pieces on top of the baseboard as a 3x2 grid, and added small brackets to the sides of the baseboard for keeping the thinner board pieces in place (you can see the brackets in the image).
+In the beginning of the project I wanted to have the possibility to move the whole thing in pieces, so I cut another thinner board in 6 pieces, put these pieces on top of the baseboard as a 3x2 grid, and added small brackets to the sides of the baseboard for keeping the thinner boards in place (you can see the brackets in the image).
 
-## Elevation
+## Elevation!
 
 Next, I designed how the track pieces would be laid out and draw some sketches to the thin boards. It was important to check that I could put the track pieces together the way I wanted.
 
@@ -85,7 +85,7 @@ After cutting the styrofoam parts, I built the railroad and tested it to make su
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3ed4v48-7geZvy5yWjP7qVmVdo1Dhjzga_LaJ1huE31QjjvopfOtH27KzEua5jrHrvpc1fdRPdaNNwztU2tQJaQlBGON8ziLpaAUwRudab8xmMhbyiPYE0ymsGRpbii0BhN4tsyMBGYhKHVTRDe5BRa=w1194-h895-no?authuser=0)
 
-## Pulp
+## The Pulp
 
 The surface of the cut styrofoam pieces looked rough. I wanted to make it smoother and be able to refine the forms of the landscape. For this purpose, I tore some newspapers into pieces and added water and wallpaper glue. Then I mixed it using a power drill and got a kind of paper pulp. It was really wet, so I filtered it.
 
@@ -117,11 +117,11 @@ Again, I built the track and tested that everything still worked as expected.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3feTH3VpteDQB7lVO6Mhkhkzoyfo03y1QaHZluI8Q0Hl7D30PNk2R4oo_rPcfSs0QESB24IiOj-SrveAQd8SOnBhEREqooA2vF537xmal5m0Fy7_50ROGU4s_c6cn_q_tQ3oG8DT9o3hTyHO1VSurDa=w1194-h895-no?authuser=0)
 
-## Surface
+## Smoothing the Surface
 
 Next, I wanted to make the railroad tracks look more realistic. My Märklin tracks are of the type that includes "a bank of gravel" below the steel tracks. That's not the best option for a scale model like this, but what can you do - I wanted to use the pieces I already had.
 
-I decided to use real sand for masking that fake gravel bank. For attaching it to the surface, I used a material that is typically applied to dry-walls for covering their seams (I had a big bucket of that after a renovation project at the house). I also used the same material for adding yet another layer to the whole landscape, on top of the dry paper pulp. This made it even smoother (and light gray).
+I decided to use real sand for masking that fake gravel bank. For attaching it to the surface, I used a material that is typically applied to dry-walls for covering their seams (I had a big bucket of that after a renovation project at the house). I also used the same material for adding yet another layer to the whole landscape, on top of the dry paper pulp. This made it even smoother (and light gray again).
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3duPRcvSmZuS2qUuZoCzBJ-rljgsXOOGu4q3HR92lp3cIlOy2EBV24yFKmsixzk6Txo0Too_9CF_omAOopxn11BD3VYSbng1cUpAwMxe9rHa1bVrgTQEqGm4isCjP-wIUf0480xSoz47aenhhz46p5W=w672-h895-no?authuser=0)
 
@@ -133,19 +133,19 @@ The surface is already looking pretty good to me. But now it desperately needs p
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3e516bT2ibF0zSRHgbZTGQZOUvteYNqp7Z6V4GRTpyzU_-FgxspB5LFXN9JiLXVmze7zrhiwVkvLjheY8oLubSirZEDMuEATtFk5gYLiObifX-q8M96kBrKry14fZR_5Ot_PpZRRYj9ZscgteaIe_xA=w1194-h896-no?authuser=0)
 
-## Painting
+## Painting the Surface
 
-I bought a cheap airbrush, solvent, and some Revell paints. Already had a big (and noisy!) compressor in the garage. Of course, it was necessary to open the doors and use a good-quality respirator mask while painting. 
+I bought a cheap airbrush, solvent, and some Revell paints. Already had a big (and noisy!) compressor in the garage. Of course, it was necessary to open the doors and use a good-quality respirator mask while painting, as I used enamel paints.
 
-The work was slow and the airbrush was not that easy to handle. Oftentimes, it got stuck after 30-60 minutes of work and I had to stop. Somehow, I still liked a lot doing this part.
+The work was slow and the airbrush was not that easy to handle. Oftentimes, it got stuck after 30-60 minutes of work and I had to stop. Somehow, I still liked a lot doing this part. Probably because the scale model started to resemble something real.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3duYN4MuXR99bnfgVIPosTq2lQQyOBgCJchqK5pXGzWN9r7TFv3FalQgOOTl-Oa5pD5egHOOQM4uW85YTzutWCoYWqxvmxBw8BPU2f9kGmufrii2s01SZLFP7zhMqGxNsk63WBDdwiMTP9gYuW4Hiaj=w1194-h896-no?authuser=0)
 
-I still had a set of old Revell paints. Surprisingly, some of them were still usable after 25 years. Of course, I had to buy more to get fresh paint and colors that are suitable for this model.
+As a kid I used to build Revell airplane scale models, and still had a set of old Revell paints. Surprisingly, some of them were usable after 25 years! Of course, I had to buy more to get fresh paint and colors that are suitable for this model.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3euE4AMkpwoU9EMwnuIKpeEoT6NJqamZmyY4M_PDefZjg5ef5tbtI_zdNRTLywxcNT9cgMrL5pDLeiMc5u4UYfnbVvTprmQq1BhOgxDz94UOgbrEiDxTuCYstbHSIzZ6eVdC3Mbm50AbWtxbi8-ZGxA=w672-h895-no?authuser=0)
 
-After painting, the gravel banks are starting to look good.
+After painting, the gravel banks started to look pretty good.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dlJT8SIsPdk6DITsfDAYnPK98-QQK_w3eedRJiX60i3OOj9mKt5cMEzTVKW8YHWX9oYQjSREZ8SOsdV40S1PkGaEozHQG40vwaNkLgPpuIphIVH_CVtmnINmRE_NdJQioE-Gi72cnawSqr-m3XJ3-n=w672-h895-no?authuser=0)
 
@@ -161,13 +161,13 @@ Since it was so terribly slow to paint large areas with the airbrush, I used spr
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3ciXExKdCN49N4nSFjFD8I0NuDzmOdqFOFQNQ6ymxZXPKWB156LlBiJKUP3tKRl7aTSl2WFXs3kZu1gCgueN49tFwnYRtsfp_aaiit6iEL5KgU4QN-awC48olAy4m_RbhX3JgUUY6YK4WKHTG6bbybS=w1194-h896-no?authuser=0)
 
-## Lake and Bridge
+## The Lake and the Bridge
 
 I painted the lake with blue color and built a wooden bridge from a bag of hobby sticks. It kind of resembles the bridge of the river Kwai, if you know the movie.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3fs7XV_nkGMxO5ZiHQlvtfDnm-XnkSD0VRfnHvI98J0Wk1VyV5t_IKFe6fEgGswSLvlvaNnxQ3HIAggECf_-zQw7nSr6HtJ2FB9j81Y564rjZpdGeY2JFaGr3mTC99E06yGcpQ6DghINQmCs1MpeFZR=w1194-h896-no?authuser=0)
 
-A friend had given me a half-empty bottle of "scale model water", some kind of resin that would look like water when it dries. I used that for making the lake look more realistic. Unfortunately, it wasn't quite enough. I may have to purchase a bottle of this to finish the lake later.
+A friend had given me a half-empty bottle of "scale model realistic water"; some kind of resin that should look like water when it dries. I used that for making the lake look more realistic. Unfortunately, there wasn't quite enough of it left. I may have to purchase a bottle of this to finish the lake later.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3cTyD1f_CxXTaBJlwiTk7KpgnsE2BxAhChcWDBjJciOzOSTAQj6qr5-J3tNEEhtzk3ccQ-xErxbfj7Gcpd_5OD0gdefbfHd-uspigT4DRoiMB-XkMsyXaKIKz3tBzOML6teutd8KXErQ-FcigrGfCei=w1194-h896-no?authuser=0)
 
@@ -175,19 +175,21 @@ A friend had given me a half-empty bottle of "scale model water", some kind of r
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3fpXrNjYWzGpqxzmhFiujLjcpE6m_3swe93b6-TchYZCpGCtByZ0RR00yqloiLeseEzQm1A-TWpPn66p2G-qNZCKySzeO_5ZzK7SQWVbyjSAMgw-oeotagrdKgQSAMfNsepR0NP4QWqMoZEGCaM3PvH=w672-h895-no?authuser=0)
 
+I really like how the bridge turned out. It has a nice, old-time look and feel.
+
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3fDmlMq5LvfJefw3mxSiXBJjfg_jjvRhajXPIsLHTkztOAdkF0engf6Gb2gEKEiv3_YWudg3fPR_HTbZQFazCJs_g6AM9vu6w6e4ZoEvZzX7B0bg_VwVQ3VwbJ3JralI38ZErDxSzbQC1Qb1F8jVfwx=w672-h895-no?authuser=0)
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dubOjvaZXZUTwVvCkMbuP8ml7Cnscx4e-MlJREPLd5gEq4noB-9riOJjkHRclfTd4h0zYcvK7_kOxgSehEtZyL0FV0ZDvS5oJjd8GM3nQCsrujfitGE-Mwv2qrD_cO9JsyKhE7nK13mcqwX4lIm0Qq=w672-h895-no?authuser=0)
 
-## Railway Station
+## The Railway Station's Platforms
 
-For the railway station, I had created a sidetrack. Now I wanted to cover the banks with wood and again used hobby sticks to do that. 
+For the railway station, I had created a sidetrack. Now I wanted to cover the platforms with wood and again used hobby sticks. 
 
-I glued the sticks side-by-side to a piece of thin cardboard, then glued to whole thing in place, and used a Dremel for cutting the ends.
+I glued the sticks side-by-side to a piece of thin cardboard, then glued to the whole thing in place, and used a Dremel for cutting the ends. Looks like a real construction site.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3cBu1x53kMtk0CwFN7lE2Uc0csVdXvChDWvCiDJB5lj2X_UKBtXQNgwxSJQiWLwuJEoaPSvlcmBFc6HcXCFa4P-lEb1HL_ySOqwiqjUEEcClyDtc_SPrm-icIF6ktAWJXkH9N_WsFzXr68nF7aFcSl9=w672-h895-no?authuser=0)
 
-Looks nice after painting.
+This is how it appears after painting. I used a couple of shades of brown and gray colors to give it a more worn-out look.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3fzRbNZrfGsB8twfEVGnp0-SKlvkIj5RBBCVqrJ2n4GrA3bCrNYRCFUKSWwJADRETtRh8kaML6JlozicvQvfIatL_noiW42VmaesrGsiKP4OchwiUjZxh8xHkFEUO8rVWYUAx8GplcN1SVCpjpwYW_b=w672-h895-no?authuser=0)
 
@@ -195,9 +197,11 @@ Looks nice after painting.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3ewwYiWBkLZD-f6JrNqyjDnydSxfmO2y_TwH1f81M3Cfxka09nCo4K6nfGRVzHu7t6ofnZIK1UMjTlhuSQY4yc9wu3_ga6souat1F4sWcOogIvhQqrH4Zi4ZC83gaffuKKutb2haDEso0yfLzuJMOJC=w1194-h896-no?authuser=0)
 
-## Tunnels
+## The Tunnels
 
-A tunnel is a must-have, so I wanted two of them. I painted the interior walls of the tunnel black, as a steam-engine locomotive would probably have smoked everything inside a tunnel. With a little bit of light shining from the end, it looks really good.
+A tunnel is a must-have, and I wanted two of them. The track goes throw one tunnel and the other one is more like a gold mine or something. 
+
+I painted the interior walls of the tunnel black, as a steam-engine locomotive would probably have smoked everything inside a tunnel. With a little bit of light shining from the end, the still wet walls look really good. A bit scary, too. You wouldn't want to go there alone, ha? I can almost hear an echo bouncing off from those walls.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3fmO0ZLeYJT7wPQMoPRcsXJaMJ4qY-DHZA4YLZ47PXTWytSKVSEZXMROxgNjVriCR0Eg7T6aZ_C023xWMmysqidBNDc0JlcOjKL1EzdIwYuZ501rgtrUtTGMFzSqjOF97BEz2L1gtmtcSxFnLR9flwj=w735-h895-no?authuser=0)
 
@@ -205,11 +209,21 @@ I also added a few large RGB LEDs (notice the bulb in the roof of the tunnel jus
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3fhvnIDYXP2AwmadJdYuJxAq5WdoeLOEkSyU4As_LEMpLIPgEx5hCeC4_uavVnOHsRrL_jlB1qVP_zpPIWUUCmaIRTOrrCsJhudQBK0THftrbsl6JjawJeR4X7_RcDwbkwovplQFvqkRURrv0MNuDHN=w672-h895-no?authuser=0)
 
-![image-center](https://lh3.googleusercontent.com/pw/ACtC-3f4mg88uyVYKYlARXcUj6QM9T0htSrNFcsKRrq3sEVcQiskUxJcbHJhH6oNuLNGPUooBCng_05NqhjmjjG88Ekn5_9vRcHrgtobPwSzQaJ9GoSbaIn2_2IkJZnTepmXroaV4eamvBTnbJtQzp8eBssU=w672-h895-no?authuser=0)
+The other tunnel. Or a gold mine. Not sure about that yet.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3eVt6Q43p5VL2XtJjUf-Y6tImUEU68NOIJIxZOUJzr8HFHSRGE4QdfKds3hJavKUR0zsgFI1xm7URQj5t9VdxCtLbmssp1aZXsavmezPaRsNOK0bDV_RlC3bsg2BHttzlQsE0N37vwVMwFDKQ-ncEGs=w672-h895-no?authuser=0)
 
+## The Water Tower
 
+Old-time steam engine locomotives need water. After all, that's the raw material for making steam by burning coal. So, there has to be a water tower for filling up the locomotive's water tank.
+
+I made this one from hobby sticks and a couple of pieces of soda straws.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3eOsDvcZTEhrVy7n00NfsMKW8nB6v4zZus0eq258qtmWnSQHutf6BzoCATAPsHfY4eWRUl8H7HfRwtKm0fxaEHN7Yecs4Xte5Ob_LTRyqFtcYWIYkHCfTdEWDe13tyjVFCrZC9fd7ZvFuyt2CwAysWb=w672-h895-no?authuser=0)
+
+Here's a short video clip of the train passing the water tower:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ONsdPMgC1Fs?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
