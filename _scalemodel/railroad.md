@@ -55,7 +55,7 @@ When building a scale model, many people aim for 100% realism: the scale, the lo
 
 I did not have any specific location in mind. Instead, I had many ideas: there should be two mountains, two tunnels, a bridge, a lake, and a village with a railway station. That's quite a lot for a scale model of this size! As a consequence, I'd have to make compromises. For example, a real train track would not have as steep inclines and declines I'd need to use.
 
-Furthermore, instead of using a particular real-world location, I chose to use my imagination. I just decided to make some kind of Wild West -themed scene: a small town somewhere in Arizona, US. I even considered whether to use the famous comic book hero Lucky Luke, but gave up on that idea.
+Furthermore, instead of using a particular real-world location, I chose to use my imagination. I just decided to make some kind of Wild West-themed scene: a small town somewhere in Arizona, US. I even considered whether to use the famous comic book hero Lucky Luke, but gave up on that idea.
 
 ## Baseboard
 
@@ -117,8 +117,97 @@ Again, I built the track and tested that everything still worked as expected.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3feTH3VpteDQB7lVO6Mhkhkzoyfo03y1QaHZluI8Q0Hl7D30PNk2R4oo_rPcfSs0QESB24IiOj-SrveAQd8SOnBhEREqooA2vF537xmal5m0Fy7_50ROGU4s_c6cn_q_tQ3oG8DT9o3hTyHO1VSurDa=w1194-h895-no?authuser=0)
 
+## Surface
 
+Next, I wanted to make the railroad tracks look more realistic. My Märklin tracks are of the type that includes "a bank of gravel" below the steel tracks. That's not the best option for a scale model like this, but what can you do - I wanted to use the pieces I already had.
 
+I decided to use real sand for masking that fake gravel bank. For attaching it to the surface, I used a material that is typically applied to dry-walls for covering their seams (I had a big bucket of that after a renovation project at the house). I also used the same material for adding yet another layer to the whole landscape, on top of the dry paper pulp. This made it even smoother (and light gray).
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3duPRcvSmZuS2qUuZoCzBJ-rljgsXOOGu4q3HR92lp3cIlOy2EBV24yFKmsixzk6Txo0Too_9CF_omAOopxn11BD3VYSbng1cUpAwMxe9rHa1bVrgTQEqGm4isCjP-wIUf0480xSoz47aenhhz46p5W=w672-h895-no?authuser=0)
+
+I used more coarse grain gravel for masking some parts of the railroad track banks. I also tested black spray paint to get an idea of how it would look like after painting.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dOAM1btuT9-nyRvSB1ZuXdT_-Tcizcy9MMsHW0vsxTtB3p9--MJQ9dMicHzQU1xI0GuN_W3bODrBvkrXEcT6TxbphWC6OS300hVXpa1LuFsFoIl1-3ocmGc54Tbp4wDVIKv0KINm_Hc9PoVFEWLhsg=w672-h895-no?authuser=0)
+
+The surface is already looking pretty good to me. But now it desperately needs painting!
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3e516bT2ibF0zSRHgbZTGQZOUvteYNqp7Z6V4GRTpyzU_-FgxspB5LFXN9JiLXVmze7zrhiwVkvLjheY8oLubSirZEDMuEATtFk5gYLiObifX-q8M96kBrKry14fZR_5Ot_PpZRRYj9ZscgteaIe_xA=w1194-h896-no?authuser=0)
+
+## Painting
+
+I bought a cheap airbrush, solvent, and some Revell paints. Already had a big (and noisy!) compressor in the garage. Of course, it was necessary to open the doors and use a good-quality respirator mask while painting. 
+
+The work was slow and the airbrush was not that easy to handle. Oftentimes, it got stuck after 30-60 minutes of work and I had to stop. Somehow, I still liked a lot doing this part.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3duYN4MuXR99bnfgVIPosTq2lQQyOBgCJchqK5pXGzWN9r7TFv3FalQgOOTl-Oa5pD5egHOOQM4uW85YTzutWCoYWqxvmxBw8BPU2f9kGmufrii2s01SZLFP7zhMqGxNsk63WBDdwiMTP9gYuW4Hiaj=w1194-h896-no?authuser=0)
+
+I still had a set of old Revell paints. Surprisingly, some of them were still usable after 25 years. Of course, I had to buy more to get fresh paint and colors that are suitable for this model.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3euE4AMkpwoU9EMwnuIKpeEoT6NJqamZmyY4M_PDefZjg5ef5tbtI_zdNRTLywxcNT9cgMrL5pDLeiMc5u4UYfnbVvTprmQq1BhOgxDz94UOgbrEiDxTuCYstbHSIzZ6eVdC3Mbm50AbWtxbi8-ZGxA=w672-h895-no?authuser=0)
+
+After painting, the gravel banks are starting to look good.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dlJT8SIsPdk6DITsfDAYnPK98-QQK_w3eedRJiX60i3OOj9mKt5cMEzTVKW8YHWX9oYQjSREZ8SOsdV40S1PkGaEozHQG40vwaNkLgPpuIphIVH_CVtmnINmRE_NdJQioE-Gi72cnawSqr-m3XJ3-n=w672-h895-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3ccl0cBaO2MJ_Yrkky4_-tb3AxpCZwDz-YSxwaIt6sqfJbLWvw3lkc69S0OEyBAaEKE8UUpz716x4YyZ_NipAa87_mmTidPPRucQeCkMMpCmZYYe6ifGH8ffR6PofjcXqqMkRvlSLjXh6tkUIr45o4Z=w672-h895-no?authuser=0)
+
+Since it was so terribly slow to paint large areas with the airbrush, I used spray paint cans for painting some larger areas with black and giving a base color for the red Arizona mountains.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3eII2EmhF0IMPvxAabneoRIOpW6nJtMsB1-dS_-O0EYdrvbrGcUHBR3o6AbDih3oU-temlRguNMEvNoAYLwxEOPABWdk5TjZ3-VYieAblKpCsFd647t1sHnWrx55yGvkuN3YEAgK9-oeTLz5ku8mI4R=w1194-h896-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3db0llN7nm4KCAMAV9eUAfsKkKMXadvJJks4lvTghCN5Dyij1Eaw3nZnVu6An2ACBOyUrlwxw-KriHMak-mOUCcIDHJqzyOXtm8PKVgNFW6WfCBiJEqxAo5lj5aK-aYIDj9evD8mv-wImjVL5nkWlnb=w1194-h896-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dS_yArqDKa77sGBOZz_lpkVanMJI2O-5VtOmj84AEII4Qk8C7eF9Pk_i3nwd9fVGlZ5MlyHKb4E--Espfi97GjZTqpNYC7NvL_aB_Jenr2C4aon0grL1CfN80dQX8LllsjenWAlu34iHrn1SdlFfv8=w1194-h896-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3ciXExKdCN49N4nSFjFD8I0NuDzmOdqFOFQNQ6ymxZXPKWB156LlBiJKUP3tKRl7aTSl2WFXs3kZu1gCgueN49tFwnYRtsfp_aaiit6iEL5KgU4QN-awC48olAy4m_RbhX3JgUUY6YK4WKHTG6bbybS=w1194-h896-no?authuser=0)
+
+## Lake and Bridge
+
+I painted the lake with blue color and built a wooden bridge from a bag of hobby sticks. It kind of resembles the bridge of the river Kwai, if you know the movie.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3fs7XV_nkGMxO5ZiHQlvtfDnm-XnkSD0VRfnHvI98J0Wk1VyV5t_IKFe6fEgGswSLvlvaNnxQ3HIAggECf_-zQw7nSr6HtJ2FB9j81Y564rjZpdGeY2JFaGr3mTC99E06yGcpQ6DghINQmCs1MpeFZR=w1194-h896-no?authuser=0)
+
+A friend had given me a half-empty bottle of "scale model water", some kind of resin that would look like water when it dries. I used that for making the lake look more realistic. Unfortunately, it wasn't quite enough. I may have to purchase a bottle of this to finish the lake later.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3cTyD1f_CxXTaBJlwiTk7KpgnsE2BxAhChcWDBjJciOzOSTAQj6qr5-J3tNEEhtzk3ccQ-xErxbfj7Gcpd_5OD0gdefbfHd-uspigT4DRoiMB-XkMsyXaKIKz3tBzOML6teutd8KXErQ-FcigrGfCei=w1194-h896-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3eJqwPnUi06JH1JP2-8ldRiJzlXKSEdncw_NAEiUx13RMAydoLR37jmxRgPIziRU3DSRktb0D1IGmJ0K-TQg1o5owuowhqs_bNuXqHW42BbhrwQRHVh5wHzLriP2fLscAfxkrcGo-5fdbpwvZSzS9wJ=w672-h895-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3fpXrNjYWzGpqxzmhFiujLjcpE6m_3swe93b6-TchYZCpGCtByZ0RR00yqloiLeseEzQm1A-TWpPn66p2G-qNZCKySzeO_5ZzK7SQWVbyjSAMgw-oeotagrdKgQSAMfNsepR0NP4QWqMoZEGCaM3PvH=w672-h895-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3fDmlMq5LvfJefw3mxSiXBJjfg_jjvRhajXPIsLHTkztOAdkF0engf6Gb2gEKEiv3_YWudg3fPR_HTbZQFazCJs_g6AM9vu6w6e4ZoEvZzX7B0bg_VwVQ3VwbJ3JralI38ZErDxSzbQC1Qb1F8jVfwx=w672-h895-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dubOjvaZXZUTwVvCkMbuP8ml7Cnscx4e-MlJREPLd5gEq4noB-9riOJjkHRclfTd4h0zYcvK7_kOxgSehEtZyL0FV0ZDvS5oJjd8GM3nQCsrujfitGE-Mwv2qrD_cO9JsyKhE7nK13mcqwX4lIm0Qq=w672-h895-no?authuser=0)
+
+## Railway Station
+
+For the railway station, I had created a sidetrack. Now I wanted to cover the banks with wood and again used hobby sticks to do that. 
+
+I glued the sticks side-by-side to a piece of thin cardboard, then glued to whole thing in place, and used a Dremel for cutting the ends.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3cBu1x53kMtk0CwFN7lE2Uc0csVdXvChDWvCiDJB5lj2X_UKBtXQNgwxSJQiWLwuJEoaPSvlcmBFc6HcXCFa4P-lEb1HL_ySOqwiqjUEEcClyDtc_SPrm-icIF6ktAWJXkH9N_WsFzXr68nF7aFcSl9=w672-h895-no?authuser=0)
+
+Looks nice after painting.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3fzRbNZrfGsB8twfEVGnp0-SKlvkIj5RBBCVqrJ2n4GrA3bCrNYRCFUKSWwJADRETtRh8kaML6JlozicvQvfIatL_noiW42VmaesrGsiKP4OchwiUjZxh8xHkFEUO8rVWYUAx8GplcN1SVCpjpwYW_b=w672-h895-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3eUP3Xq2K1usgpMnQWBqdMQafj0XWoGroDRMn7V9usWihlSEilWA02dvO7f1rHiy9Ldy1klf7-LIay1bvuhFC21rbnOkh94jk5b621oaATVw4CrFwgpfsIWP23r5gSOknSjIsLmz6Ni7zaXJGL1Omsv=w672-h895-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3ewwYiWBkLZD-f6JrNqyjDnydSxfmO2y_TwH1f81M3Cfxka09nCo4K6nfGRVzHu7t6ofnZIK1UMjTlhuSQY4yc9wu3_ga6souat1F4sWcOogIvhQqrH4Zi4ZC83gaffuKKutb2haDEso0yfLzuJMOJC=w1194-h896-no?authuser=0)
+
+## Tunnels
+
+A tunnel is a must-have, so I wanted two of them. I painted the interior walls of the tunnel black, as a steam-engine locomotive would probably have smoked everything inside a tunnel. With a little bit of light shining from the end, it looks really good.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3fmO0ZLeYJT7wPQMoPRcsXJaMJ4qY-DHZA4YLZ47PXTWytSKVSEZXMROxgNjVriCR0Eg7T6aZ_C023xWMmysqidBNDc0JlcOjKL1EzdIwYuZ501rgtrUtTGMFzSqjOF97BEz2L1gtmtcSxFnLR9flwj=w735-h895-no?authuser=0)
+
+I also added a few large RGB LEDs (notice the bulb in the roof of the tunnel just above the locomotive). This way I can tune the lighting later.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3fhvnIDYXP2AwmadJdYuJxAq5WdoeLOEkSyU4As_LEMpLIPgEx5hCeC4_uavVnOHsRrL_jlB1qVP_zpPIWUUCmaIRTOrrCsJhudQBK0THftrbsl6JjawJeR4X7_RcDwbkwovplQFvqkRURrv0MNuDHN=w672-h895-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3f4mg88uyVYKYlARXcUj6QM9T0htSrNFcsKRrq3sEVcQiskUxJcbHJhH6oNuLNGPUooBCng_05NqhjmjjG88Ekn5_9vRcHrgtobPwSzQaJ9GoSbaIn2_2IkJZnTepmXroaV4eamvBTnbJtQzp8eBssU=w672-h895-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3eVt6Q43p5VL2XtJjUf-Y6tImUEU68NOIJIxZOUJzr8HFHSRGE4QdfKds3hJavKUR0zsgFI1xm7URQj5t9VdxCtLbmssp1aZXsavmezPaRsNOK0bDV_RlC3bsg2BHttzlQsE0N37vwVMwFDKQ-ncEGs=w672-h895-no?authuser=0)
 
 
 
