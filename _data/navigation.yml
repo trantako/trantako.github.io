@@ -1,34 +1,34 @@
 main:
-  - title: "Blog"
-    url: /blog/
-  - title: "Software"
-    url: /software/
-  - title: "Photography"
-    description: "Examples and links to my photos"
-    url: /photography/
-  - title: "Video"
-    url: /video/
-  - title: "Music"
-    url: /music/
-  - title: "Drawing"
-    url: /drawing/
-  - title: "3D scanning"
-    url: /scan3d/
-  - title: "3D modelling"
-    url: /model3d/
-  - title: "3D printing"
-    url: /print3d/
-  - title: "Scale model"
-    url: /scalemodel/
-  - title: "Lego"
-    url: /lego/
-  - title: "E-Bike"
-    url: /ebike/
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+#  - title: "Blog"
+#    url: /blog/
+#  - title: "Software"
+#    url: /software/
+#  - title: "Photography"
+#    description: "Examples and links to my photos"
+#    url: /photography/
+#  - title: "Video"
+#    url: /video/
+#  - title: "Music"
+#    url: /music/
+#  - title: "Drawing"
+#    url: /drawing/
+#  - title: "3D scanning"
+#    url: /scan3d/
+#  - title: "3D modelling"
+#    url: /model3d/
+#  - title: "3D printing"
+#    url: /print3d/
+#  - title: "Scale model"
+#    url: /scalemodel/
+#  - title: "Lego"
+#    url: /lego/
+#  - title: "E-Bike"
+#    url: /ebike/
+#  - title: "Posts"
+#    url: /posts/
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
+#  - title: "About"
+#    url: /about/

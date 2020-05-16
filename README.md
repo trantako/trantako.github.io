@@ -2,7 +2,7 @@
 
 ## About
 
-This is a repository for GitHub Pages site for my personal account. The repository contains the files that are needed for generating my personal website. The generated website appears as https://tapani.rantakokko.net and is hosted here in GitHub via GitHub Pages.
+This is a repository for the GitHub Pages site for my personal account. The repository contains the files that are needed for generating my personal website. The generated website appears as https://tapani.rantakokko.net and is hosted here in GitHub via GitHub Pages.
 
 ## Framework
 
@@ -20,13 +20,13 @@ Current setup for maintaining the site:
 - Custom domain name via Louhi
 - Chrome browser for testing/viewing the site
 
-For local development/testing I use local installation of Jekyll. Since it is not available for Windows, I use WSL a.k.a *Windows Subsystem for Linux*. In practice, there is Ubuntu 18.04 console inside Windows. This is enough and much more light-weight than installing the whole Ubuntu Linux as virtual machine.
+For local development/testing I use a local installation of Jekyll. Since it is not available for Windows, I use WSL a.k.a *Windows Subsystem for Linux*. In practice, there is Ubuntu 18.04 console inside Windows. This is enough and much more light-weight than installing the whole Ubuntu Linux as a virtual machine.
 
 ### Steps to install Ubuntu 18.04 inside Windows 10
 
-> When I did this, Ubuntu 20.04 had just come out. I tried to use it, but necessary packages were not available for it yet. I had to install also 18.04 and use that instead.
+> When I did this, Ubuntu 20.04 had just come out. I tried to use it, but the necessary packages were not available for it yet. I had to install also 18.04 and use that instead.
 
-1. In Windows taskbar search box, type “powershell,” right-click it from the search results, and select “Run as administrator”.
+1. In the Windows taskbar search box, type “Powershell,” right-click it from the search results, and select “Run as administrator”.
 
 2. Enter the following command:
 
@@ -77,7 +77,7 @@ gem install jekyll bundler
 jekyll 4.0.0
 ```
 
-> I had problems when intalling Jekyll without 'sudo'. See [this](https://jekyllrb.com/docs/troubleshooting/#no-sudo) for instructions. This info did not solve everything; I had to re-install Ruby etc. tricks before I got it working. It took several hours of problem solving. Much easier to use native Ubuntu or Mac for running Jekyll!
+> I had problems when installing Jekyll without 'sudo'. See [this](https://jekyllrb.com/docs/troubleshooting/#no-sudo) for instructions. This info did not solve everything; I had to re-install Ruby etc. tricks before I got it working. It took several hours of problem-solving. Much easier to use native Ubuntu or Mac for running Jekyll!
 
 ## Testing
 
@@ -88,7 +88,7 @@ Use the local Jekyll installation for testing the changes before deployment to G
 bash
 ```
 
-2. Go to correct directory:
+2. Go to the correct directory:
 ```
 cd Development/VCS/github/trk/trantako.github.io/
 ```
@@ -113,7 +113,7 @@ Notice that it is enough for deployment to just commit and push the changes to t
 
 ## Updating & customization
 
-There are many strategies in getting updates to the theme. To keep this as hassle-free as possible (focus on content, not on framework), I have chosen to use remote theme approach: the theme comes from its own public repository. Specific tag/branch can be selected (fixed) if necessary, but currently it is not specified ie. the latest version.
+There are many strategies in getting updates to the theme. To keep this as hassle-free as possible (focus on content, not on the framework), I have chosen to use a remote theme approach: the theme comes from its own public repository. Specific tag/branch can be selected (fixed) if necessary, but currently it is not specified ie. the latest version.
 
 To customize things that cannot be configured, the solution is to create local customization files. See the theme [structure](https://mmistakes.github.io/minimal-mistakes/docs/structure/).
 

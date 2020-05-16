@@ -139,7 +139,23 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
+  # _drawing
+  - scope:
+      path: ""
+      type: drawing
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _scalemodel
+  - scope:
+      path: ""
+      type: scalemodel
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
@@ -147,3 +163,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  drawing:
+    output: true 
+    permalink: /:collection/:path
+  scalemodel:
+    output: true 
+    permalink: /:collection/:path
