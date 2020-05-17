@@ -32,7 +32,7 @@ I don't have the boxes anymore, but I found these images from the Internet and I
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/scalemodel/märklin_h0_set-s_2920.jpg" alt="">
-  <figcaption>Märklin H0 SET-S #2920, a kind of starter kit. Pretty sure I had this one.</figcaption>
+  <figcaption>Märklin H0 SET-S #2920, a kind of starter kit. Pretty sure I got this one.</figcaption>
 </figure> 
 
 <figure class="align-center">
@@ -51,11 +51,35 @@ Of course, I am fully aware that there are plenty of products from Märklin and 
 
 Yet, doing it like that was never my intention. On purpose, I have not purchased ready-to-use products, looked up instructions, nor participated in clubs. Instead, I have used all kinds of scrap material from my storage, things that I've got from friends for free, and mostly invented my own ways of doing things. This has been the principal idea of the whole project.
 
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/pw/ACtC-3dEkTyDnzv8hsizcOFdEj0XyQTivHJTIAi3T3HUju-Vfj66NJW9ya-c2Qj8RrZ8jtmbPgDf4FTIjFCwdnmUrhB0p4UjZzg9cq9WauS9OvCKf_N3OMnN1Q68UUnkPlPG5H-uICF0z02EX6VVH4ZXKYzN=w1194-h896-no?authuser=0" alt="">
+  <figcaption>A few years ago I made a business trip to Vienna, and visited a huge toy store that had a large department just for Märklin trains.</figcaption>
+</figure>
+
+<figure class="align-center">
+  <img src="https://lh3.googleusercontent.com/pw/ACtC-3c9QHi2owUBKXrZJW1LvbFTpx_8f2G6y8l-cJmKiSAtvbAJMvNiXb7xWBOTXSKoViLCPUuoEZYAux19tMQGber3dLHvdhlgm72GOAlSL8rM5lgsxdr-vOpxJ4bTNP3fPGQu46Vj6lS9Cx_bY4FYDYrZ=w1194-h896-no?authuser=0" alt="">
+  <figcaption>But look at those price tags - yikes! Building a scale model using commercial products where every single thing is priced like this would be really expensive.</figcaption>
+</figure>
+
 When building a scale model, many people aim for 100% realism: the scale, the looks, the ground surface, the trees, the water, etc. should all be a perfect down-scaled copy of some real location. 
 
 I did not have any specific location in mind. Instead, I had many ideas: there should be two mountains, two tunnels, a bridge, a lake, and a village with a railway station. That's quite a lot for a scale model of this size! As a consequence, I had to make compromises. For example, a real train track would not have as steep inclines and declines that I needed to use.
 
 Furthermore, instead of modeling a specific real-world location, I chose to use an imaginary place. I just decided to make some kind of Wild West-themed scene: a small town somewhere in Arizona, US. I even considered whether to use the famous comic book hero Lucky Luke, but gave up on that idea.
+
+## The Scale
+
+Just like the name implies, scale models are models of things but in a different size. In my project, the defining factor for the scale comes from the Märklin train. H0, which is the term that Märklin uses for this size, is *1:87 scale*.
+
+This concept is familiar to everyone from maps. For example, a map might be drawn in the scale 1:10000, which means that 1 cm on the map is 10 000 cm (or 100 m) in the real world.
+
+Hence, the H0 scale or 1:87 simply means that 1 cm in the scale model corresponds to 87 cm in the real world. If we use a calculator, the relation 1:87 is approximately 0.0115. Thus, another way to think about this is that the scale model is just 1.15 % of the real-world size. 1 meter (100 cm) in the real world becomes 1.15 cm in the scale mode. A man of my height i.e. 175 cm tall would be just 2 cm in the scale model. You get the idea.
+
+When you think about it, this scale is pretty small. If a man's wrist is 5 cm wide, in the scale model that would be about 0.6 mm. Details that appear in the sub-millimeter resolution are really difficult to manufacture at home. You have to make compromises - either leave out some details, only paint them instead of building them, or cheat with the scale.
+
+I have decided to relax a bit with the scale. For example, wooden sticks for hobby use are available only in a few sizes. If I use them to build a bridge, they probably do not match with the 1:87 scale. But who cares, if the bridge looks good and is made of real wood instead of plastic? There's some value in that, too.
+
+On the other hand, it is useful to know the scale and apply it whenever it works in practice. For example, if I 3D print an object, it is fairly easy to adjust the scale - up to the limits of the printer, of course.
 
 ## The Baseboard
 
@@ -67,7 +91,7 @@ In the beginning of the project I wanted to have the possibility to move the who
 
 ## Elevation!
 
-Next, I designed how the track pieces would be laid out and draw some sketches to the thin boards. It was important to check that I could put the track pieces together the way I wanted.
+Next, I designed how the track pieces would be laid out and drew sketches to the thin boards. It was important to check that I could put the track pieces together the way I wanted.
 
 Then, I started to add elevation by cutting pieces of hard styrofoam. I used a tool that looks like a soldering iron, but has a different blade and doesn't get too hot. The smell was awful, even with windows and doors open I could work only a short period at a time.
 
@@ -225,7 +249,68 @@ Here's a short video clip of the train passing the water tower:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ONsdPMgC1Fs?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## More Painting
+
+Now it was time to paint some details. I had previously painted the whole scale model with base colors. Adding a little bit of green, gray, black etc. to mimic vegetation, emphasize shadows, etc. makes the model much more lively.
+
+Here I have added a little bit of green and yellow to the gravel banks.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dYwDtPGAapu4Ztuk2ELspRaWd8lgKz80Y6pFg4ngi21-pS8CIAjhZWlYdoEcbOxWujf12it-7AiefOZXbMqpeYbHfJ58oRl9D6iLM-RHUPjXwiLPRDDpKEyOtN5btnnj9A4GHueB9OlPvSdCEqbnuJ=w1194-h896-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3cueIlx_3_A2hsL-Y4sX2iXkz_sBYuc6nadkjMTzHQlkeXZnkO60yXiL8ggbbqzziSs8hqFGyyPqayYRn2ZYxZe_ISGs-V4iNnOAAvM-bpx6CiShBDSz-niVPG4VoZarB4nTw2jGQrSsWH0UFGAuuW4=w672-h895-no?authuser=0)
+
+Also green and yellow to the lakeside:
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dyFK403rshmA-VCZneK5CU9eAfdLTbPNfXVj5U-bcRQyACA3dwer9Sjq0UjW6wiPk0AxsQ3urXe3r_SiyXl-6RIhLv4Zm9058jCnM263PIpUOrK-F4Ddk9YKnvmwnBDf4jJ1zLxxZZrClId5SQO1qJ=w1194-h896-no?authuser=0)
+
+Some gray and black to the mountains:
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3e9h7EZb9vWe-r32xvDgoBP9GeYPqXd8rRfFDBhHBpcjxYuhOyWcA5clMVOP62SSaoZEUAoIkiKldMdjprIEJJBdeI6h0nA_LXkXQY5pbJ1Lf1I1qPqpLVzxRcjDVgo8hN5E8yJPqvqKHvPU5jXCRCg=w1194-h896-no?authuser=0)
+
+Also some yellow and light brown to make the erosion of the mountains visible and to tone down the red base color, which was too bright:
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3d4hMipwEch95Poh-MSL2cBmEAbxd6qnJzEtOYPcFlJ53axPSRFO3sG74qvF8OH-jTHhp7n3iW-AfbB0m9uaYcH0XqTxJ6eRh7cKLeG2IqyZl0-vhxls7apDgD6BQ14jOVvrYq7TBm3qdURjdB_U2xb=w1194-h896-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3cjmVdyJ8UFtcHYVCIs-IwxNoNkY6JPwQU_YCuG3EyAlS0_-gXwla_QOMk35sImXokbu_Q0CxBid7JelEuPsLkqvnlilyVzd0M7BHJTrVTNq1CeMp3-IwATz4fHoaAjzX_DT0BBeK4a5LxVqgvsQoJ4=w1194-h896-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dDvn_KapPaM0irKTg4wx8u3pEkP_UmwOCVr99O6jwVGMUSJ2r61HvONL1tV2F2mLCLtLmJBy1XL25Pw0Zka4M--F2P4XGy5VTAj5vRKf3vde6j1dHAY2TaR_5G8KDFKvoYcgZlVUCfToLOiOYtCLyM=w1194-h896-no?authuser=0)
+
+Also added a waterfall to the mountain:
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dA1r4j-tXZrPLCw5cEMuX4demd_lBwFqJdOdLXCz1Cj2N_R42t_AWctV1WtzImPl7naN8P7ICz4SaN6b0jdQaSDGOXdGLP1fs8iPFVY9Iuq7jpEWdEi00l8tHWPgjggxqt2jNqQBpyMtQ9SR7Ug2JY=w1194-h896-no?authuser=0)
+
+All in all, the colors are starting to look good now. However, it looks rather empty there! It is time to add vegetation - bushes and trees etc.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3exemRFf2G90_PJmEsSNM7IywtRVdrqkJu-ij__RiFAzbgsgt2LJiTB2y2VdOSFYZjwj-kzKBDT4eflLHP0eDetX1oVdAovHxVcAHGvDkNbY5X2F_ckZxLwV0KuPMdhLz1ab17I2tjrzX6au8_v73O1=w1194-h896-no?authuser=0)
+
+## Vegetation
+
+A friend gave me some scale model "bushes", a material that can be used for making trees etc. I added that here and there near the gravel banks.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dIEzEpKQL1oKVuNdxiQBxHD9m4KTq9vgNOgLCPefzDMc1sglhzzzxOOUNDlqX8yIN6IPGmNtsBrim0wS1jJ6y2oLWpO_H7mhEuWCIcVl8eo6Z-KD1M1I-eftTrHwKim8bUpVrTl0Mmy8q28tQu4fTT=w1194-h896-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dC4ZTwEHdaLo7IaieEF0vrrSrfRbiDi1HkZ0nIPMy88WssrP6exg92B5V7KoAaLYQzIVzrUiXY_ifEsLT7vyKQ_3to0HNV09Z37u_UwNL5D-CVH7U76cwSNpDqWNegg5k-CEv_co4NYIHcnvPxgjFJ=w1194-h896-no?authuser=0)
+
+I also got some scale model grass, a light green powder. I added that with bushes near the lake. Also let some grapevine branches dry up and made a few dead trees from that.
+
+By the way, in the image you can see a little side project: I added more woodwork to the bridge.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3cXaOMNvPVHzsLyuA87fEeUQIQ7h42vuVef-9BeAi7P0FXYh4Pfk0BVGZ5HuWjr-yjB1UwSMjRKZ9kIRw8VY23Xfbe6RhTcw9GI3cPfnjb6GDJ_2DVpnbIZcP669I4JPIcDLyoE9jXGEZ7IzVqQCH7N=w1194-h896-no?authuser=0)
+
+Here we have some self-made trees and bushes, made by painting dried lichen ("poronjäkälä" in Finnish).
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3cVHlDvEgVBJ_bg1Dd737ycYV4Wv3h00E4Gc3jqLyhFip0yLRMbKm6qnZmncJkc4tvu8Mixt7xsSEZ-eL1x6i5KB6Yv-25AZyRS7vC076O85gonT0R0m5hAtwpTS91ZJ5GsNm2ieE7wraJKfLK4xn8v=w672-h895-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3eyoAh5Xi4RH3fu4VsYbJ5fz-fPbGJSlRIw-MejjITipWdNQcHysLPTGTvTj3y58o8xZLi9u-OlpEkQ99LcwpYvfAE8rOpD2pP5tN2uNtIBGyLowHMArhx2d_d3Y0oyDgBdCHQAHTcLZDNmZIgCfvXV=w1194-h896-no?authuser=0)
+
+Now the vegetation is beginning to look ready. Alhtough, the contrast between the sandy scene and very bright green grass and bushes is a bit disturbing. I may have to tone it done by adding a little bit of dust with light brown color.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3d2YSmriryhFu-MYCGBhA_BITAC4d_0xe8Tpv2KNb3RWRDpCAQwkw1UbX1F2widxjKiNRCMZF4A7ABI2CQ5W0qQenU7RZ75Y3dKQxHJFo4yr34ddLwDHI1CXDmdQ-mXENr90QuVEDj3LtOqEGDywfii=w672-h895-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3efeMvKg6-c9OWQV-TUxPJ-7qs1rG2V7Np89YPLS5jL1NCGPCNcMjY16C6asepFfXm3Y5xwBo6mZPd50eLF9H1lE-0m-NwRBvITEINtQ_KIo0CdntoKj7stMngLvY2_oGzU4uwxZ0u8LDtDufmnIXZ1=w1194-h896-no?authuser=0)
+
+## 3D Printed Train Cars
+
+TODO
 
 
-
-#https://photos.app.goo.gl/veqAjyTFTtoQEuXm8
