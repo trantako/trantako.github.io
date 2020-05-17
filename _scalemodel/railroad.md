@@ -4,16 +4,6 @@ excerpt: "Märklin H0 Scale Model Railway Project"
 header:
   image: /assets/images/scalemodel/railroad_cover.jpg
   teaser: /assets/images/scalemodel/railroad_cover.jpg
-#gallery:
-#  - url: /assets/images/unsplash-gallery-image-1.jpg
-#    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-#    alt: "placeholder image 1"
-#  - url: /assets/images/unsplash-gallery-image-2.jpg
-#    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-#    alt: "placeholder image 2"
-#  - url: /assets/images/unsplash-gallery-image-3.jpg
-#    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-#    alt: "placeholder image 3"
 ---
 
 I was born in 1978 and lived a happy childhood in the '80s. We had only two TV channels (color TV anyway!), a Commodore C-64 microcomputer, lots of Lego Technic, and also a *Märklin H0 electric scale model railroad*. 
@@ -205,6 +195,10 @@ I really like how the bridge turned out. It has a nice, old-time look and feel.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dubOjvaZXZUTwVvCkMbuP8ml7Cnscx4e-MlJREPLd5gEq4noB-9riOJjkHRclfTd4h0zYcvK7_kOxgSehEtZyL0FV0ZDvS5oJjd8GM3nQCsrujfitGE-Mwv2qrD_cO9JsyKhE7nK13mcqwX4lIm0Qq=w672-h895-no?authuser=0)
 
+Later, I added some more woodwork to the sides:
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dc4oojOfhBDtcV4EBVTS-3fVcjBLoFyDLw6xIhVg2uq9oTRc9bjwf6oVFJsBfWSbyRqTihXWkl4ZyeR3cZPP6GzUkGU0WybQRiGIQO2S5YAiSciw9rS1fuhnKGGL8gWFu7fz67LIQEQHJs7xfAlaOO=w672-h895-no?authuser=0)
+
 ## The Railway Station's Platforms
 
 For the railway station, I had created a sidetrack. Now I wanted to cover the platforms with wood and again used hobby sticks. 
@@ -303,7 +297,7 @@ Here we have some self-made trees and bushes, made by painting dried lichen ("po
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3eyoAh5Xi4RH3fu4VsYbJ5fz-fPbGJSlRIw-MejjITipWdNQcHysLPTGTvTj3y58o8xZLi9u-OlpEkQ99LcwpYvfAE8rOpD2pP5tN2uNtIBGyLowHMArhx2d_d3Y0oyDgBdCHQAHTcLZDNmZIgCfvXV=w1194-h896-no?authuser=0)
 
-Now the vegetation is beginning to look ready. Alhtough, the contrast between the sandy scene and very bright green grass and bushes is a bit disturbing. I may have to tone it done by adding a little bit of dust with light brown color.
+Now the vegetation is beginning to look ready. Although, the contrast between the sandy scene and very bright green grass and bushes is a bit disturbing. I may have to tone it done by adding a little bit of dust with a light brown color.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3d2YSmriryhFu-MYCGBhA_BITAC4d_0xe8Tpv2KNb3RWRDpCAQwkw1UbX1F2widxjKiNRCMZF4A7ABI2CQ5W0qQenU7RZ75Y3dKQxHJFo4yr34ddLwDHI1CXDmdQ-mXENr90QuVEDj3LtOqEGDywfii=w672-h895-no?authuser=0)
 
@@ -311,6 +305,56 @@ Now the vegetation is beginning to look ready. Alhtough, the contrast between th
 
 ## 3D Printed Train Cars
 
-TODO
+In 2018, I purchased my first 3D printer. It is such a versatile tool, helps a lot also in my railroad project. I've found online many 3D designs for the H0 scale, modified some as needed, then printed and painted the parts at home.
 
+For example, this railroad cargo car was printed in parts, which I then glued together. The pencil is for size comparison. The level of detail is pretty good.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3f1_T_4E1o-byIiM1svfT8JLqjDOYXeG0gqXOu2KOuJrmKI_n-RImz5gVwmVj-Lse3Tg-4e4rjmfcXs_bcQsqZTP_5NIXNRwyWqJ8DjVj-zuqDLqEY1uG7qmY-d-BfCbrgnkhSDZllimRO1vqJ7IkGX=w1194-h896-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dwbRAmSBOw-sPV5D1Jto-DHU3mALNLz51GcTQwdtydQAn4ug0duT1LpKH3jg93h0OUzojtvQZmOPrsbnHS7aS3iU1-rw17KJkZtc0l0464r1IHiA8WkFcvDtZkRfwduqyQM9oGrSuZi89b70m40wxm=w1184-h895-no?authuser=0)
+
+I've also made some props, such as barrels and canoes. Here they are in an open cargo car. The car's chassis is 3D printed, too. The only thing that I cannot print is the axels for the wheels and screws for attaching the connecting mechanism. As always, painting the parts makes a big difference.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dGizqYcy73Wgt9tVNTQa43JFrqgcmOtn3Kf95RlNnm0n3PFYEQSlf0oTmQf_ErDo1hbWRMpeVIU_26r-znTfSKHmOm31Ievs1MeRuynRHHBG3Lc28mO_GnVVWFa00OwflD5Nk7uQxgypyRZTdajtAU=w1194-h896-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dK8AYjqr-WTypvymWePEke7Uq3Fhbiv5y0l_u_Nc3jbfu6yHs6b50bMAkib-Ocr48EeXAKEkqvvaRyoSi8LXw-FBHwFAJlVKe9zj-tVj5MqEDq7DWlIAwVBVYHM2SfYV4Ro7w9DuiG6Gtgn7nOK8QU=w1194-h895-no?authuser=0)
+
+The downside of the 3D printed cars is that they are not suitable for driving with the locomotive. The plastic wheels are too loose and the whole car is so light that it derails all too easily. I've made them just to have some extra cars resting on the side tracks.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3e5-fcrGm-6_DuczEvp82NBE1-JEdZ50IaZfTYIqvmw9axQND1bwPa5kHjm120iMM4PIvS-t2KCscvLEqWlF9EPbeVv39LQdDrcydxV6qdpiGD_ZNDRJOFxdrN4x97MbQip6iTbIz4m2ukpOhPjSZ8l=w1194-h895-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dTIvapNTa8eZZ9J8BbzrxCjHVnaa680lJxNfD70W3Rkxv9t464dzinau5r6mj8DXbP68_O_IKXbaxUg2bggdh9NPtQlFUpyaoXRB18KxK9hbumJvSGCyoDtFF621I6BylluP8RljUEROlD_2mN5EiE=w1194-h896-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dXzGwMDx4IUzyiLubqXDfJon94ccwrdZ5OAxEC96YYrniOzYK0c8Lv8yT4HPN-w9wjBM988RAfFlh3lr_JdQmSNvEOU3JGTrlwgqmwMlfB-3J2t-hnVoyMAgA9xx6bHTfWvSukp5CgUJB5W4v64FMz=w1194-h896-no?authuser=0)
+
+## 3D Printed Props
+
+Wooden barrels were a common thing in the past. I've made lots of these and added here and there.
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3e7O8upJyjUvD8w4toUzYO8zr5IyjYvy4cKfu5Ryhyh45FmV_OeIRheatYeYwAEzPScMXsTlqD_-NvOgs145Ek2OQhZd71I5Ulpg13OORn76vnQtj_wlN6ejQ_LUkLNQvOnxLZkckc7V0HrjUxklKeS=w1194-h896-no?authuser=0)
+
+At the end of the track, there must be a buffer:
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3f-q1_qQXiQK7irfof_DkmSkm_iTZN7Nwn7En5HG4ZzAAKf6_Ww__dB6qJ-vOYmWjz0CAvUGUVK-lCB5zu4GXE6HO_DrBHSY5r2tP0dLUjT1X3reBFGdKoLtsmGU4w41hKd2dmaN9AjiTqMW99g8XnR=w672-h895-no?authuser=0)
+
+Some canoes at the lakeside:
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dDlXIGgMnuNXOIu0H60xBagL8o69BkxZ9OlLmebPw_oMNhQhZTjKbB_55RGBLvml8m_xZ1-hY9OYSEuRRlRhUBuyDeSDymEcQAPbHVHIw0LTQnnV88T-Tqfd1CW1LuvN6o-qyI9x1m2mvm6vVp_Nqa=w1194-h896-no?authuser=0)
+
+## Current Status
+
+This is how the scale model looks at the moment, from above:
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3fYdZgFuJgyAGv4LOATlMrlM18E3gAN2jZ3nNqkul6ysps0986GSHe_ckqwbvkmzqwIAmJlAXFoJzJyLyFhb8pBTySCLQnWZYMmKks34AHzPjHj6K8di5-58ZNl2ldx7aQnI_DwScDzLYbBNWNUZQNF=w1259-h944-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3cMCnRBaLnZNomZu6lVwwPKPDBNd8S_43vsrFgml9wItdkOPcKizdv78z_ozVcf7jFvD_Zliso4U_x4iRsvM7elbozHziqsfK62XvQ0uNtak52kU5MSG427JG33mc6SEnrsH7ie7w0lhIctbdskz5KX=w1259-h944-no?authuser=0)
+
+Next steps:
+1. Buildings: Design, 3D print, and paint some buildings. A railway station, a saloon, a bank, some workshops, farm buildings. Plus some extra props, such as carriages, wheels, etc.
+2. Animalia: Design, 3D print, and paint various animals and people. Sheep, goats, maybe an eagle or two.
+3. Fixes: Add more "realistic water" to the lake. Finish the painting jobs.
+4. Driving: Add a shelf for the control board and connect all the electronics.
+5. Background: Attach background boards to the sides and the back. Paint there a sunset or other distant scene.
+6. Point-of-view: Make a special car or other solution for putting a small camera on the train.
+7. Shoot a set of final images and videos. The project is completed.
 
