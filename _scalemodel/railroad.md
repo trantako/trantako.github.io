@@ -18,22 +18,13 @@ This page follows the (extremely slow) progress of the railroad project. It has 
 
 ## The products
 
-I don't have the boxes anymore, but I found these images from the Internet and I recall these are the products that I got as Christmas and birthday presents in the '80s:
+I don't have the boxes anymore, but based on the images I found from the Internet I recall these are the products that I got as Christmas and birthday presents in the '80s:
 
-<figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/scalemodel/märklin_h0_set-s_2920.jpg" alt="">
-  <figcaption>Märklin H0 SET-S #2920, a kind of starter kit. Pretty sure I got this one.</figcaption>
-</figure> 
+* Märklin H0 SET-S #2920, a kind of starter kit. Pretty sure I got this one. [Search images online (new tab)](https://www.google.com/search?q=m%C3%A4rklin+h0+set-s+2920&tbm=isch){:target="_blank"}
 
-<figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/scalemodel/märklin_set-h0_e_5190.jpg" alt="">
-  <figcaption>Märklin SET-H0 E #5190, a track extension kit with 2x manual railroad switches. It could have been another similar product, too, as I don't remember those electric wires.</figcaption>
-</figure> 
+* Märklin SET-H0 E #5190, a track extension kit with 2x manual railroad switches. [Search images online (new tab)](https://www.google.com/search?q=m%C3%A4rklin+set-h0+e+5190&tbm=isch){:target="_blank"}
 
-<figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/scalemodel/märklin_set-h0_e_5192.jpg" alt="">
-  <figcaption>Märklin SET-H0 E #5192, a track extension kit with 2x electric railroad switches.</figcaption>
-</figure>
+* Märklin SET-H0 E #5192, a track extension kit with 2x electric railroad switches. [Search images online (new tab)](https://www.google.com/search?q=m%C3%A4rklin+set-h0+e+5192&tbm=isch){:target="_blank"}
 
 ## My Building Principles
 
