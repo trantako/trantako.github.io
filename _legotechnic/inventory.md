@@ -1,6 +1,6 @@
 ---
-title: "Inventory"
-excerpt: "All my Lego Technic bricks organized"
+title: "Brick Inventory"
+excerpt: "All my Lego Technic bricks, organized"
 header:
   image: /assets/images/legotechnic/inventory_cover.jpg
   teaser: /assets/images/legotechnic/inventory_cover.jpg
@@ -23,12 +23,12 @@ header:
 
 |Number|Name|Theme|Year|Pieces|Link|Instructions|
 |---|---|---|---|---|
-|31313|Mindstorms EV3|Mindstorms-EV3|2013|601|[Link](https://brickset.com/sets/31313-1){:target="_blank"}|[Lego pdf](https://www.lego.com/biassets/bi/6124045.pdf){:target="_blank"}|
-|42029|Customised Pick-Up Truck (x2)|Technic|2014|1063|[Link](https://brickset.com/sets/42029-1){:target="_blank"}|[Lego pdf](https://www.lego.com/biassets/bi/6120834.pdf){:target="_blank"}|
-|42043|Mercedes-Benz Arocs 3245|Technic|2015|2793|[Link](https://brickset.com/sets/42043-1){:target="_blank"}|[Lego pdf](https://www.lego.com/biassets/bi/6182511.pdf){:target="_blank"}|
-|42053|Volvo EW160E|Technic|2016|1166|[Link](https://brickset.com/sets/42053-1){:target="_blank"}|[Lego pdf](https://www.lego.com/biassets/bi/6205583.pdf){:target="_blank"}|
-|42056|Porsche 911 GT3 RS|Technic|2016|2704|[Link](https://brickset.com/sets/42056-1){:target="_blank"}|[Lego pdf](https://www.lego.com/biassets/bi/6207108.pdf){:target="_blank"}|
-|42084|Hook Loader|Technic|2018|176|[Link](https://brickset.com/sets/42084-1){:target="_blank"}|[Lego pdf](https://www.lego.com/biassets/bi/6220547.pdf){:target="_blank"}|
+|31313|Mindstorms EV3|Mindstorms-EV3|2013|601|[Link](https://brickset.com/sets/31313-1){:target="_blank"}|[Official pdf](https://www.lego.com/biassets/bi/6124045.pdf){:target="_blank"}|
+|42029|Customised Pick-Up Truck (x2)|Technic|2014|1063|[Link](https://brickset.com/sets/42029-1){:target="_blank"}|[Official pdf](https://www.lego.com/biassets/bi/6120834.pdf){:target="_blank"}|
+|42043|Mercedes-Benz Arocs 3245|Technic|2015|2793|[Link](https://brickset.com/sets/42043-1){:target="_blank"}|[Official pdf](https://www.lego.com/biassets/bi/6182511.pdf){:target="_blank"}|
+|42053|Volvo EW160E|Technic|2016|1166|[Link](https://brickset.com/sets/42053-1){:target="_blank"}|[Official pdf](https://www.lego.com/biassets/bi/6205583.pdf){:target="_blank"}|
+|42056|Porsche 911 GT3 RS|Technic|2016|2704|[Link](https://brickset.com/sets/42056-1){:target="_blank"}|[Official pdf](https://www.lego.com/biassets/bi/6207108.pdf){:target="_blank"}|
+|42084|Hook Loader|Technic|2018|176|[Link](https://brickset.com/sets/42084-1){:target="_blank"}|[Official pdf](https://www.lego.com/biassets/bi/6220547.pdf){:target="_blank"}|
 
 ## Brickset
 
