@@ -340,6 +340,12 @@ This is how the scale model looks at the moment, from above:
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3cMCnRBaLnZNomZu6lVwwPKPDBNd8S_43vsrFgml9wItdkOPcKizdv78z_ozVcf7jFvD_Zliso4U_x4iRsvM7elbozHziqsfK62XvQ0uNtak52kU5MSG427JG33mc6SEnrsH7ie7w0lhIctbdskz5KX=w1259-h944-no?authuser=0)
 
+Here's a little comparison between the scale model and a real locomotive at the train station of Oulu, just for fun:
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3c7hvHAlgAEDkurqLENiKTDpKrtXoGboUg9O6XICMP43SKJepMmMf1ouPHxld3zwq6fvemAD7cBCZbTLPeU69zM-4yP67NMT1gLkz0a36eV1bUtbGkGwSzRquUCmvL1K35ayK59ySkXfamPHsuvHxh0=w1259-h944-no?authuser=0)
+
+![image-center](https://lh3.googleusercontent.com/pw/ACtC-3eaiIbsQlHv_Vv1aBjOGwIGd1UY4OIpa7AroRA48UvtSREwQSfKdKDkI4QXVvyWPSi4wUAzHjNJzDuNz9OC0c5TOPz2mJMXBY0qyOzDmlFCAvg_Ks4skmS1GN91rdrpHCZYtWHIdhLRNVKGg7mNGOkV=w1259-h944-no?authuser=0)
+
 Next steps:
 1. Buildings: Design, 3D print, and paint some buildings. A railway station, a saloon, a bank, some workshops, farm buildings. Plus some extra props, such as carriages, wheels, etc.
 2. Animalia: Design, 3D print, and paint various animals and people. Sheep, goats, maybe an eagle or two.
