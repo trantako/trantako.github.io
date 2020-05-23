@@ -156,6 +156,14 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _legotechnic
+  - scope:
+      path: ""
+      type: legotechnic
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
@@ -169,5 +177,8 @@ collections:
     output: true 
     permalink: /:collection/:path
   scalemodel:
+    output: true 
+    permalink: /:collection/:path
+  legotechnic:
     output: true 
     permalink: /:collection/:path

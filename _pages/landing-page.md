@@ -112,7 +112,7 @@ feature_row8:
     title: "Lego Technic"
     excerpt: 'I try not to take myself too seriously. Playing a little every once in a while is fun and relaxing. The Lego Technic series is awesome. A few years back at work we
     were rushing to release a new product. I bought this Porsche and brought it to the office, to be built together as a prize for completing the product release.'
-    #url: "/lego/"
+    url: "/legotechnic/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row9:
