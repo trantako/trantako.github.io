@@ -232,7 +232,7 @@ I made this one from hobby sticks and a couple of pieces of soda straws.
 
 Here's a short video clip of the train passing the water tower:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ONsdPMgC1Fs?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ONsdPMgC1Fs?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## More Painting
 
