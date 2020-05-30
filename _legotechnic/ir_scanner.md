@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/legotechnic/prox_scanner_cover.jpg
 ---
 
-## The Story
+## The story
 
 In 2011, we had a problem to solve at work. There was a new kind of proximity sensor and our customer wanted to learn if it was possible to detect some simple hand gestures using nothing but the sensor.
 

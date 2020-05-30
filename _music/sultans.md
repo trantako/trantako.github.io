@@ -8,7 +8,7 @@ header:
 
 In the early 2000s, I played a keyboard in a band. We practiced on every Tuesday night for three hours. During short breaks, our guitarists liked to jam and generally fool around by playing guitar solos from the Dire Straits' and Mark Knopfler's hits. They taught me the chords and I really liked the finger-picking playing style, the melodies, and overall feeling of Mr. Knopfler's music. I have been listening him a lot since then.
 
-## The Original Version
+## The original version
 
 The solo's of the famous hit *Sultans of Swing* were my absolute favourite. As many learning guitarists, I have struggled a lot in learning to play them! 
 
@@ -18,7 +18,7 @@ Check out how Mark himself plays and sings the song. It looks so easy and almost
 
 <br/>
 
-## Learning to Play...
+## Learning to play
 
 During the years, Youtube became very useful as a platform for teaching (and learning) guitar tricks. For me, Justin Sandercoe's *Justin Guitar* channel's lessons were extremely helpful and kind of unlocked the secrets of this song (thanks Justin!) 
 
@@ -28,7 +28,7 @@ I learned all the licks from his Sultans of Swing videos 1-4. That last, speedy 
 
 <br/>
 
-## Some Amazing Covers
+## Some amazing covers
 
 There are lots of covers of this song on Youtube. One of my favorites is Josh Turner's version, where he beautifully accompanies himself and also plays the solos:
 
@@ -50,7 +50,7 @@ Let's take one more. Here's a metal cover by Leo Moracchioli, featuring the wond
 
 There's pleanty more on Youtube. Sultans of Swing seems to be a song that is loved by many generations of music lovers and guitarists, and it also inspires people in creating covers with all kinds of playing styles.
 
-## The COVID-19 Quarantine
+## The COVID-19 quarantine
 
 In April 2020, basically the whole World was staying at home and finding ways to pass time. Re-creating works of art at home became a thing. People were very creative, using whatever things they had at hand, and posed in front of a camera in a way that resembled a famous portrait.
 
@@ -60,7 +60,7 @@ So, I recorded cajon (bass/snare drums), bass guitar, acoustic guitar, electric 
 
 Next, I used Adobe Premiere to fuse the 360 videos together in such a way that all five copies of me appeared at the same time. I added the audio track and now had a 360-degree video cover of the Sultans of Swing. However, vocals were missing! The song is pretty boring without a vocal track. Since I am not much of a singer myself, I used Mr. Knopfler's original vocal track, which - to my surprise - was available on Youtube!
 
-## My 360 Version
+## My 360 version
 
 I made a couple of versions of the video. Here's a 360-degree video with a short background story before the music:
 
@@ -76,7 +76,7 @@ On the other hand, fusing the clones together into the same image worked really 
 
 The space was tight to get five players in the same room, but in the end that worked, too. It was paramount to have enough space around each player, else fusing them together would have needed a lot of masking work in the edit.
 
-## My 2D Version
+## My 2D version
 
 Since some devices (iPhones and iPads, mainly) still cannot play 360-degree video in a browser, I made another version as a re-framed 360-degree video. Another reason was that I wanted to have a version without the background story - just the music.
 

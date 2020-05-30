@@ -26,7 +26,7 @@ I don't have the boxes anymore, but based on the images I found from the Interne
 
 * Märklin SET-H0 E #5192, a track extension kit with 2x electric railroad switches. [Search images online (new tab)](https://www.google.com/search?q=m%C3%A4rklin+set-h0+e+5192&tbm=isch){:target="_blank"}
 
-## My Building Principles
+## My building principles
 
 Of course, I am fully aware that there are plenty of products from Märklin and others that you can buy to build a nice scale model. Also, there are hobby shops that sell all kinds of products for making the scenery. Furthermore, Youtube, web pages, and hobby clubs provide instructions and guidance.
 
@@ -48,7 +48,7 @@ I did not have any specific location in mind. Instead, I had many ideas: there s
 
 Furthermore, instead of modeling a specific real-world location, I chose to use an imaginary place. I just decided to make some kind of Wild West-themed scene: a small town somewhere in Arizona, US. I even considered whether to use the famous comic book hero Lucky Luke, but gave up on that idea.
 
-## The Scale
+## The scale
 
 Just like the name implies, scale models are models of things but in a different size. In my project, the defining factor for the scale comes from the Märklin train. H0, which is the term that Märklin uses for this size, is *1:87 scale*.
 
@@ -62,7 +62,7 @@ I have decided to relax a bit with the scale. For example, wooden sticks for hob
 
 On the other hand, it is useful to know the scale and apply it whenever it works in practice. For example, if I 3D print an object, it is fairly easy to adjust the scale - up to the limits of the printer, of course.
 
-## The Baseboard
+## The baseboard
 
 I needed some kind of a large baseboard for the whole project. For building that, I used pieces of an old wardrobe. There are just three walls and a top, as well as some enforcement below the top board to make it sturdy. One side is open, so I can crawl under it to make holes, connect electrical wires, etc.
 
@@ -90,7 +90,7 @@ After cutting the styrofoam parts, I built the railroad and tested it to make su
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3ed4v48-7geZvy5yWjP7qVmVdo1Dhjzga_LaJ1huE31QjjvopfOtH27KzEua5jrHrvpc1fdRPdaNNwztU2tQJaQlBGON8ziLpaAUwRudab8xmMhbyiPYE0ymsGRpbii0BhN4tsyMBGYhKHVTRDe5BRa=w1194-h895-no?authuser=0)
 
-## The Pulp
+## The pulp
 
 The surface of the cut styrofoam pieces looked rough. I wanted to make it smoother and be able to refine the forms of the landscape. For this purpose, I tore some newspapers into pieces and added water and wallpaper glue. Then I mixed it using a power drill and got a kind of paper pulp. It was really wet, so I filtered it.
 
@@ -122,7 +122,7 @@ Again, I built the track and tested that everything still worked as expected.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3feTH3VpteDQB7lVO6Mhkhkzoyfo03y1QaHZluI8Q0Hl7D30PNk2R4oo_rPcfSs0QESB24IiOj-SrveAQd8SOnBhEREqooA2vF537xmal5m0Fy7_50ROGU4s_c6cn_q_tQ3oG8DT9o3hTyHO1VSurDa=w1194-h895-no?authuser=0)
 
-## Smoothing the Surface
+## Smoothing the surface
 
 Next, I wanted to make the railroad tracks look more realistic. My Märklin tracks are of the type that includes "a bank of gravel" below the steel tracks. That's not the best option for a scale model like this, but what can you do - I wanted to use the pieces I already had.
 
@@ -138,7 +138,7 @@ The surface is already looking pretty good to me. But now it desperately needs p
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3e516bT2ibF0zSRHgbZTGQZOUvteYNqp7Z6V4GRTpyzU_-FgxspB5LFXN9JiLXVmze7zrhiwVkvLjheY8oLubSirZEDMuEATtFk5gYLiObifX-q8M96kBrKry14fZR_5Ot_PpZRRYj9ZscgteaIe_xA=w1194-h896-no?authuser=0)
 
-## Painting the Surface
+## Painting the surface
 
 I bought a cheap airbrush, solvent, and some Revell paints. Already had a big (and noisy!) compressor in the garage. Of course, it was necessary to open the doors and use a good-quality respirator mask while painting, as I used enamel paints.
 
@@ -166,7 +166,7 @@ Since it was so terribly slow to paint large areas with the airbrush, I used spr
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3ciXExKdCN49N4nSFjFD8I0NuDzmOdqFOFQNQ6ymxZXPKWB156LlBiJKUP3tKRl7aTSl2WFXs3kZu1gCgueN49tFwnYRtsfp_aaiit6iEL5KgU4QN-awC48olAy4m_RbhX3JgUUY6YK4WKHTG6bbybS=w1194-h896-no?authuser=0)
 
-## The Lake and the Bridge
+## The lake and the bridge
 
 I painted the lake with blue color and built a wooden bridge from a bag of hobby sticks. It kind of resembles the bridge of the river Kwai, if you know the movie.
 
@@ -190,7 +190,7 @@ Later, I added some more woodwork to the sides:
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dc4oojOfhBDtcV4EBVTS-3fVcjBLoFyDLw6xIhVg2uq9oTRc9bjwf6oVFJsBfWSbyRqTihXWkl4ZyeR3cZPP6GzUkGU0WybQRiGIQO2S5YAiSciw9rS1fuhnKGGL8gWFu7fz67LIQEQHJs7xfAlaOO=w672-h895-no?authuser=0)
 
-## The Railway Station's Platforms
+## The railway station's platforms
 
 For the railway station, I had created a sidetrack. Now I wanted to cover the platforms with wood and again used hobby sticks. 
 
@@ -206,7 +206,7 @@ This is how it appears after painting. I used a couple of shades of brown and gr
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3ewwYiWBkLZD-f6JrNqyjDnydSxfmO2y_TwH1f81M3Cfxka09nCo4K6nfGRVzHu7t6ofnZIK1UMjTlhuSQY4yc9wu3_ga6souat1F4sWcOogIvhQqrH4Zi4ZC83gaffuKKutb2haDEso0yfLzuJMOJC=w1194-h896-no?authuser=0)
 
-## The Tunnels
+## The tunnels
 
 A tunnel is a must-have, and I wanted two of them. The track goes throw one tunnel and the other one is more like a gold mine or something. 
 
@@ -222,7 +222,7 @@ The other tunnel. Or a gold mine. Not sure about that yet.
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3eVt6Q43p5VL2XtJjUf-Y6tImUEU68NOIJIxZOUJzr8HFHSRGE4QdfKds3hJavKUR0zsgFI1xm7URQj5t9VdxCtLbmssp1aZXsavmezPaRsNOK0bDV_RlC3bsg2BHttzlQsE0N37vwVMwFDKQ-ncEGs=w672-h895-no?authuser=0)
 
-## The Water Tower
+## The water tower
 
 Old-time steam engine locomotives need water. After all, that's the raw material for making steam by burning coal. So, there has to be a water tower for filling up the locomotive's water tank.
 
@@ -234,7 +234,7 @@ Here's a short video clip of the train passing the water tower:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ONsdPMgC1Fs?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## More Painting
+## More painting work
 
 Now it was time to paint some details. I had previously painted the whole scale model with base colors. Adding a little bit of green, gray, black etc. to mimic vegetation, emphasize shadows, etc. makes the model much more lively.
 
@@ -294,7 +294,7 @@ Now the vegetation is beginning to look ready. Although, the contrast between th
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3efeMvKg6-c9OWQV-TUxPJ-7qs1rG2V7Np89YPLS5jL1NCGPCNcMjY16C6asepFfXm3Y5xwBo6mZPd50eLF9H1lE-0m-NwRBvITEINtQ_KIo0CdntoKj7stMngLvY2_oGzU4uwxZ0u8LDtDufmnIXZ1=w1194-h896-no?authuser=0)
 
-## 3D Printed Train Cars
+## 3D printed train cars
 
 In 2018, I purchased my first 3D printer. It is such a versatile tool, helps a lot also in my railroad project. I've found online many 3D designs for the H0 scale, modified some as needed, then printed and painted the parts at home.
 
@@ -318,7 +318,7 @@ The downside of the 3D printed cars is that they are not suitable for driving wi
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dXzGwMDx4IUzyiLubqXDfJon94ccwrdZ5OAxEC96YYrniOzYK0c8Lv8yT4HPN-w9wjBM988RAfFlh3lr_JdQmSNvEOU3JGTrlwgqmwMlfB-3J2t-hnVoyMAgA9xx6bHTfWvSukp5CgUJB5W4v64FMz=w1194-h896-no?authuser=0)
 
-## 3D Printed Props
+## 3D printed props
 
 Wooden barrels were a common thing in the past. I've made lots of these and added here and there.
 
@@ -332,7 +332,7 @@ Some canoes at the lakeside:
 
 ![image-center](https://lh3.googleusercontent.com/pw/ACtC-3dDlXIGgMnuNXOIu0H60xBagL8o69BkxZ9OlLmebPw_oMNhQhZTjKbB_55RGBLvml8m_xZ1-hY9OYSEuRRlRhUBuyDeSDymEcQAPbHVHIw0LTQnnV88T-Tqfd1CW1LuvN6o-qyI9x1m2mvm6vVp_Nqa=w1194-h896-no?authuser=0)
 
-## Current Status
+## Current status
 
 This is how the scale model looks at the moment, from above:
 

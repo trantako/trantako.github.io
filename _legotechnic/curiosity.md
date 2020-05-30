@@ -26,7 +26,7 @@ In this video, I am testing my Curiosity robot in the living room. Kids are worr
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WxJkqXrLxNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 360-Degree View
+## 360-degree view
 
 I spent quite some time designing the suspension system for the wheels. I wanted to get traction with all 6 wheels on an uneven surface so that the rover would not get stuck too easily. It worked pretty well in the end. To observe it in action, I put a Ricoh Theta S camera under the hood and filmed a couple of short clips outdoors, driving it on the kid's playground sand.
 

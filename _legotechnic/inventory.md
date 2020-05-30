@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/legotechnic/inventory_cover.jpg
 ---
 
-## My Old Lego Technic Kits
+## My old Lego Technic sets
 
 |Number|Name|Theme|Year|Pieces|Link|Instructions|
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ header:
 |8843|Fork-Lift Truck|Technic|1984|269|[Link](https://brickset.com/sets/8843-1){:target="_blank"}|[Scan](http://peeron.com/scans/8843-1/){:target="_blank"}|
 |8851|Excavator|Technic|1984|347|[Link](https://brickset.com/sets/8851-1){:target="_blank"}|[Scan](http://peeron.com/scans/8851-1/){:target="_blank"}|
 
-## My New Lego Technic Kits
+## My new Lego Technic sets
 
 |Number|Name|Theme|Year|Pieces|Link|Instructions|
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ There are also some fun facts. According to Brickset, I own 14 different sets, w
 
 [View my list (new tab)](https://brickset.com/sets/ownedby-trantako){:target="_blank"}
 
-## Organizing the Bricks
+## Organizing the bricks
 
 I used to have a big plastic box for all the pieces. It was terrible! Finding a certain type of brick, or even finding out if there were any left of that type... that took ages. In 2016, I bought four storage boxes and organized all the bricks by type and color.
 
