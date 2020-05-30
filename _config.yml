@@ -140,6 +140,14 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _music
+  - scope:
+      path: ""
+      type: music
+    values:
+      layout: single
+      author_profile: false
+      share: true
   # _drawing
   - scope:
       path: ""
@@ -173,6 +181,9 @@ tag_archive:
   path: /tags/
 
 collections:
+  music:
+    output: true 
+    permalink: /:collection/:path
   drawing:
     output: true 
     permalink: /:collection/:path

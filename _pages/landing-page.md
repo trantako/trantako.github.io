@@ -6,7 +6,7 @@ date: 2020-05-10T12:00:00+02:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/landing_cover.jpg
+  overlay_image: /assets/images/landing/landing_cover.jpg
 #  actions:
 #    - label: "Download"
 #      url: "https://github.com/trantako/trantako.github.io"
@@ -16,7 +16,7 @@ intro:
   - excerpt: 'I am a firm believer in lifelong learning. I get interested in new things easily. Knowing the versatility of the human brain, my attitude always is "anyone with perseverance can learn to do this". Hence, this personal website is a mix of all things I enjoy to do!<br><br>
   "Sole ko tehä." `-Lapinmies`'
 feature_row1:
-  - image_path: assets/images/blog_cover.png
+  - image_path: /assets/images/landing/blog_cover.png
     #image_caption: "caption"
     alt: "Blog category"
     title: "Blog"
@@ -24,14 +24,14 @@ feature_row1:
     #url: "/blog/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/software_cover.png
+  - image_path: /assets/images/landing/software_cover.png
     alt: "Software category"
     title: "Software"
     excerpt: "By profession, I am a software developer and CTO at Finwe Ltd. Here you'll find content related to software development - especially on sensors and video."
     #url: "/software/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/about_cover.png
+  - image_path: /assets/images/landing/about_cover.png
     alt: "About category"
     title: "About me"
     excerpt: "Who am I and where I come from. What skills I have learned and what are my ambitions professionally and generally in life."
@@ -39,7 +39,7 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/photography_cover.jpg
+  - image_path: /assets/images/landing/photography_cover.jpg
     alt: "Photography category"
     title: "Photography"
     excerpt: 'I became interested in photography when my first child was born. She was moving too fast for camera phones of that time, so I got a DSLR.
@@ -48,7 +48,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/video_cover.jpg
+  - image_path: /assets/images/landing/video_cover.jpg
     alt: "Video category"
     title: "Videos"
     excerpt: 'At work I have focused on video software since 2013. However, making videos myself is a much newer thing. It started in 2019 when I considered that
@@ -57,16 +57,16 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/music_cover.jpg
+  - image_path: /assets/images/landing/music_cover.jpg
     alt: "Music category"
     title: "Music"
-    excerpt: 'Music is one of my lifelong hobby projects. I self-thought myself to play piano at the age of 6 or 7. When I was at 1st grade in the elementary school,
-    some visitors demoed a keyboard connected to a computer via MIDI. Mind blown, spent my youth composing music with a similar setup. Recently, I`ve been playing guitars.'
-    #url: "/music/"
+    excerpt: 'Music is one of my lifelong hobbies. I self-thought myself to play piano at the age of 6-7. When I was at the 1st grade in the elementary school,
+    some school visitors demoed a keyboard connected to a computer via MIDI. Mind blown, spent my youth composing music with a similar setup. Recently, I`ve been playing guitars.'
+    url: "/music/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
-  - image_path: /assets/images/drawing_cover.jpg
+  - image_path: /assets/images/landing/drawing_cover.jpg
     alt: "Drawing category"
     title: "Drawing"
     excerpt: 'Drawing by hand using nothing but a sheet of paper and a pencil is a form of art that I find interesting. Sometimes I draw nothing for years, and then suddenly get attracted to it again. It is a great way to learn eye-hand coordination.'
@@ -74,7 +74,7 @@ feature_row5:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row6:
-  - image_path: assets/images/scan3d_cover.jpg
+  - image_path: /assets/images/landing/scan3d_cover.jpg
     alt: "3D Scanning category"
     title: "3D Scanning"
     excerpt: "At the age of 14 I was already monetizing my computer skills by scanning and proof-reading articles for a magazine. Later I became interested in 3D scanning
@@ -82,7 +82,7 @@ feature_row6:
     #url: "/scan3d/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/model3d_cover.png
+  - image_path: /assets/images/landing/model3d_cover.png
     alt: "3D Modelling category"
     title: "3D Modelling"
     excerpt: "To me, drawing by hand is a form of art - and drawing using a computer is great for designing functional, printable components. This skill is almost mandatory
@@ -90,7 +90,7 @@ feature_row6:
     #url: "/model3d/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/print3d_cover.jpg
+  - image_path: /assets/images/landing/print3d_cover.jpg
     alt: "3D Printing category"
     title: "3D Printing"
     excerpt: "Plastic is probably the most versatile material there is. Being able to print almost any imaginable form within a few hours at home - that is revolutionary for 
@@ -99,7 +99,7 @@ feature_row6:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row7:
-  - image_path: /assets/images/scalemodel_cover.jpg
+  - image_path: /assets/images/landing/scalemodel_cover.jpg
     alt: "Scale Model category"
     title: "Scale Models"
     excerpt: 'One of the best toys that I got as a kid was a Märklin railway. I also put together quite a number of Revell airplanes. All in all, scale models are still fun to build, as I like to put attention to details. In my garage, I have the same Märklin railway and a long-term project to build a complete landscape for it.'
@@ -107,7 +107,7 @@ feature_row7:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row8:
-  - image_path: /assets/images/lego_cover.jpg
+  - image_path: /assets/images/landing/lego_cover.jpg
     alt: "Lego category"
     title: "Lego Technic"
     excerpt: 'I try not to take myself too seriously. Playing a little every once in a while is fun and relaxing. The Lego Technic series is awesome. A few years back at work we
@@ -116,10 +116,10 @@ feature_row8:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row9:
-  - image_path: /assets/images/ebike_cover.jpg
+  - image_path: /assets/images/landing/ebike_cover.jpg
     alt: "E-Bike category"
     title: "E-Biking"
-    excerpt: 'I got tired in commuting by car, made some calculations, and bought an e-bike. One of the best decisions I have made. It is so relaxing to begin and end a working day with a 50-minute biking trip. I have 40 km per day to travel, so it took a while to get used to this pace. The first winter went OK, but working from home due to COVID-19 totally messed my routine. Forest paths is a good replacement.'
+    excerpt: 'I got tired in commuting by car, made some calculations, and bought an e-bike. One of the best decisions I have made. It is so relaxing to begin and end a working day with a 50-minute biking trip. I have 40 km per day to travel, so it took a while to get used to this pace. The first winter went OK, but working from home due to COVID-19 totally messed my routine. Biking on the nearby forest paths is great for refreshing my brain.'
     #url: "/ebike/"
     btn_label: "Read More"
     btn_class: "btn--primary"
