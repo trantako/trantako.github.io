@@ -4,6 +4,8 @@ excerpt: "All my Lego Technic bricks, organized"
 header:
   image: /assets/images/legotechnic/inventory_cover.jpg
   teaser: /assets/images/legotechnic/inventory_cover.jpg
+toc: true
+toc_label: "Table of Contents"
 ---
 
 ## My old Lego Technic sets

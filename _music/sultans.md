@@ -4,6 +4,8 @@ excerpt: "I re-created old Dire Straits hit as a 360-degree music video"
 header:
   image: /assets/images/music/Sultans_of_Swing_thumbnail.jpg
   teaser: /assets/images/music/Sultans_of_Swing_thumbnail.jpg
+toc: true
+toc_label: "Table of Contents"
 ---
 
 In the early 2000s, I played a keyboard in a band. We practiced on every Tuesday night for three hours. During short breaks, our guitarists liked to jam and generally fool around by playing guitar solos from the Dire Straits' and Mark Knopfler's hits. They taught me the chords and I really liked the finger-picking playing style, the melodies, and overall feeling of Mr. Knopfler's music. I have been listening him a lot since then.

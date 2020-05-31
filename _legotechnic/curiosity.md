@@ -4,6 +4,8 @@ excerpt: "Custom model: a 6-wheel Mars rover, with a cannon"
 header:
   image: /assets/images/legotechnic/curiosity_cover.jpg
   teaser: /assets/images/legotechnic/curiosity_cover.jpg
+toc: true
+toc_label: "Table of Contents"
 ---
 
 ## Background

@@ -4,6 +4,8 @@ excerpt: "Märklin H0 Scale Model Railway Project"
 header:
   image: /assets/images/scalemodel/railroad_cover.jpg
   teaser: /assets/images/scalemodel/railroad_cover.jpg
+toc: true
+toc_label: "Table of Contents"
 ---
 
 I was born in 1978 and lived a happy childhood in the '80s. We had only two TV channels (color TV anyway!), a Commodore C-64 microcomputer, lots of Lego Technic, and also a *Märklin H0 electric scale model railroad*. 

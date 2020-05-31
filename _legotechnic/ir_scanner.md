@@ -4,6 +4,8 @@ excerpt: "Custom model: a motorized scanner for testing a 3D proximity sensor"
 header:
   image: /assets/images/legotechnic/prox_scanner_cover.jpg
   teaser: /assets/images/legotechnic/prox_scanner_cover.jpg
+toc: true
+toc_label: "Table of Contents"
 ---
 
 ## The story
