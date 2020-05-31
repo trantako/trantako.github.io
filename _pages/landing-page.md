@@ -60,7 +60,7 @@ feature_row4:
   - image_path: /assets/images/landing/music_cover.jpg
     alt: "Music category"
     title: "Music"
-    excerpt: 'Music is one of my lifelong hobbies. I self-thought myself to play piano at the age of 6-7. When I was at the 1st grade in the elementary school,
+    excerpt: 'Music is one of my lifelong hobbies. I self-thought myself to play piano at the age of 6. When I was at the 1st grade in the elementary school,
     some school visitors demoed a keyboard connected to a computer via MIDI. Mind blown, spent my youth composing music with a similar setup. Recently, I`ve been playing guitars.'
     url: "/music/"
     btn_label: "Read More"
