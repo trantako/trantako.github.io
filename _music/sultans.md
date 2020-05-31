@@ -137,9 +137,9 @@ After this, I exported the project into a single video clip and re-opened that f
 
 > You can get a free 7-day evaluation version of Adobe Premiere, if you don't have it. That's more than enough time for trying out making a video like this.
 
-## Final 360 version
+## 360 version
 
-I made a couple of versions of the video. Here's a 360-degree video with a short background story before the music:
+I have made several versions of the video. Here's a 360-degree video with a short background story before the music and forced perspective:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HRoGsKdqMLo?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -147,15 +147,23 @@ I made a couple of versions of the video. Here's a 360-degree video with a short
 
 > This is a 360-degree video - you can use touch, mouse or WASD keys for panning the view by dragging. 
 
-Since many viewers will miss possibility to pan especially on Facebook shares, I added a few forced camera angle changes. However, that turned out problematic, as some of the clones stand and some sit, so I had to adjust the pitch angle, too, to keep every player's face within the vertical image area. Which, of course, messed the floor leveling! Making forced perspectives in a 360-degree video is always controversial... you really should not touch pitch and roll angles, only yaw.
+Since many viewers wont' notice the possibility to pan especially on Facebook shares, I added a few forced camera angle changes. However, that turned out problematic, as some of the clones stand and some sit, so I had to adjust the pitch angle, too, to keep every player's face within the vertical image area. Which, of course, messed the floor leveling! Making forced perspectives in a 360-degree video is always controversial... you really should not touch pitch and roll angles, only yaw.
 
 On the other hand, fusing the clones together into the same image worked really well. Also, lighting and shadows did not cause problems at all. I assumed that would have been a major headache. Recording the video inside on a perfectly sunny day helped a lot because there was constant, bright light from the windows throughout the recording session. 
 
 The space was tight to get five players in the same room, but in the end that worked, too. It was paramount to have enough space around each player, else merging them together would have needed a lot of masking work in the edit. Of course, I did some planning and tested this before actually capturing the video.
 
+## VR version
+
+This version is intended for VR headsets / active panning viewing style i.e. there is no forced perspective. I have also omitted the background story; it's just the music part.
+
+> This is a 360-degree video - you can use touch, mouse or WASD keys for panning the view by dragging. 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zKas0BaQACI?controls=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Re-framed 2D version
 
-Since some devices (iPhones and iPads, mainly) still cannot play 360-degree video in a browser, I made another version as a re-framed 360-degree video. Another reason was that I wanted to have a version without the background story - just the music.
+Since some devices (iPhones and iPads, mainly) still cannot play 360-degree video in a browser, I made another version as a re-framed 360-degree video. No background story, just the music part.
 
 This is a kind of director's cut, where camera angles are hand-picked by me from the 360-degree video. The output is a regular 2D video. Using the 360-degree camera as a source allowed using some extraordinary camera angles! Here's the second version.
 
