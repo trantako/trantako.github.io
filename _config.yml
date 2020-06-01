@@ -54,7 +54,7 @@ analytics:
   provider: "google-gtag"
   google:
     tracking_id: "UA-168162790-1"
-    anonymize_ip: false # default
+    anonymize_ip: true
 
 # Build settings
 markdown: kramdown
