@@ -50,11 +50,11 @@ repository: "trantako/trantako.github.io"
 minimal_mistakes_skin: dirt # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 breadcrumbs: true  # disabled by default, beta feature
 search: true
-#analytics:
-#  provider: "google-gtag"
-#  google:
-#    tracking_id: "UA-1234567-8"
-#    anonymize_ip: false # default
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-168162790-1"
+    anonymize_ip: false # default
 
 # Build settings
 markdown: kramdown
