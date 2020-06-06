@@ -20,7 +20,14 @@ Current setup for maintaining the site:
 - Custom domain name via Louhi
 - Chrome browser for testing/viewing the site
 
-For local development/testing I use a local installation of Jekyll. Since it is not available for Windows, I use WSL a.k.a *Windows Subsystem for Linux*. In practice, there is Ubuntu 18.04 console inside Windows. This is enough and much more light-weight than installing the whole Ubuntu Linux as a virtual machine.
+For local development/testing I use a local installation of Jekyll. Since it is not available for Windows, I use WSL a.k.a *Windows Subsystem for Linux*. In practice, there is Ubuntu 18.04 console inside Windows. This is enough and much more light-weight than installing the whole Ubuntu Linux as a virtual machine. When I want to develop the website locally, I do this:
+
+Open Windows command prompt and type this:
+```
+C:\Users\trk>bash
+trk@Veronica:/mnt/c/Users/trk$ cd Development/VCS/github/trk/trantako.github.io/
+trk@Veronica:/mnt/c/Users/trk/Development/VCS/github/trk/trantako.github.io$ bundle exec jekyll serve --livereload
+```
 
 ### Steps to install Ubuntu 18.04 inside Windows 10
 
@@ -95,7 +102,7 @@ cd Development/VCS/github/trk/trantako.github.io/
 
 3. Start serving the site locally with Jekyll:
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload
 ```
 
 4. Open Chrome browser and navigate to [localhost:4000](localhost:4000).
@@ -109,13 +116,33 @@ Building the site locally:
 bundle exec jekyll build
 ```
 
-Notice that it is enough for deployment to just commit and push the changes to this repository. GitHub will automatically update the site!
+> Notice that it is enough for deployment to just commit and push the changes to this repository. GitHub will automatically update the site. No need to do the build step.
 
 ## Updating & customization
 
-There are many strategies in getting updates to the theme. To keep this as hassle-free as possible (focus on content, not on the framework), I have chosen to use a remote theme approach: the theme comes from its own public repository. Specific tag/branch can be selected (fixed) if necessary, but currently it is not specified ie. the latest version.
+There are many strategies in getting updates to the theme. To keep this as hassle-free as possible (focus on content, not on the framework), I have chosen to use a remote theme approach: the theme comes from its own public repository. Specific tag/branch can be selected (fixed) if necessary, but currently it is not specified ie. I use the latest version, whatever it is.
 
 To customize things that cannot be configured, the solution is to create local customization files. See the theme [structure](https://mmistakes.github.io/minimal-mistakes/docs/structure/).
+
+## Experiences
+
+After using this setup for a couple of months, I am happy with it. Creating new content is efficient and everything is simple enough and works smoothly.
+
+I use the theme's documentation site frequently to check out things:
+
+[Minimal Mistakes theme docs](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+
+I have also managed to get Grammarly working with Visual Studio Code, so that grammar is checked when I type. This was a bit complicated, but works pretty well now.
+
+Hosting my website like this (via GitHub Pages) is free. The pages also load very quickly from GitHub's global CDN. Moreover, a static site is totally maintenance-free, and secure. 
+
+However, a GitHub repository is not suitable for storing large media files. For media content, I have made the following choices:
+
+- Photos: I upload most of the images to Google Photos, usually straight from my phone. Then, I create an album in Google Photos for a particular topic, add all images that I want to reference into that album, and then make it public. Now, I can get a direct image link for each individual photo. It helps in organizing to have a separate (public) album for each topic. Hosting images like this is free.
+
+- Videos: I upload my videos to Youtube, either public or hidden, and then I use the iFrame method for embedding them on the web pages (HTML code directly into the markdown text files). Hosting videos like this is free.
+
+- Music: I upload my audio tracks to SoundCloud, and embed their player using the iFrame method, similar to Youtube videos. Hosting audio like this is free.
 
 ## Troubleshooting
 
