@@ -2,8 +2,8 @@
 title: "Sultans of Swing (cover)"
 excerpt: "I re-created old Dire Straits hit as a 360-degree music video"
 header:
-  image: /assets/images/music/Sultans_of_Swing_thumbnail.jpg
-  teaser: /assets/images/music/Sultans_of_Swing_thumbnail.jpg
+  image: /assets/images/music/Sultans_of_Swing_cover.jpg
+  teaser: /assets/images/music/Sultans_of_Swing_thumb.jpg
 toc: true
 toc_label: "Table of Contents"
 ---

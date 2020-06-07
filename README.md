@@ -132,7 +132,7 @@ I use the theme's documentation site frequently to check out things:
 
 [Minimal Mistakes theme docs](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
-I have also managed to get Grammarly working with Visual Studio Code, so that grammar is checked when I type. This was a bit complicated, but works pretty well now.
+I have also managed to get Grammarly working with Visual Studio Code so that grammar is checked when I type. This was a bit complicated, but works pretty well now.
 
 Hosting my website like this (via GitHub Pages) is free. The pages also load very quickly from GitHub's global CDN. Moreover, a static site is totally maintenance-free, and secure. 
 
@@ -143,6 +143,8 @@ However, a GitHub repository is not suitable for storing large media files. For 
 - Videos: I upload my videos to Youtube, either public or hidden, and then I use the iFrame method for embedding them on the web pages (HTML code directly into the markdown text files). Hosting videos like this is free.
 
 - Music: I upload my audio tracks to SoundCloud, and embed their player using the iFrame method, similar to Youtube videos. Hosting audio like this is free.
+
+GitHub Pages offers some basic analytics, but to really understand how the website is being used and what is the effect of, say, posting a link to an article via social media, I use Google Analytics.
 
 ## Troubleshooting
 

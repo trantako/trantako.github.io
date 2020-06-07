@@ -70,7 +70,7 @@ feature_row5:
     alt: "Drawing category"
     title: "Drawing"
     excerpt: 'Drawing by hand using nothing but a sheet of paper and a pencil is a form of art that I find interesting. Sometimes I draw nothing for years, and then suddenly get attracted to it again. It is a great way to learn eye-hand coordination.'
-    #url: "/drawing/"
+    url: "/drawing/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row6:

@@ -187,6 +187,9 @@ collections:
   drawing:
     output: true 
     permalink: /:collection/:path
+  drawing:
+    output: true 
+    permalink: /:collection/:path
   scalemodel:
     output: true 
     permalink: /:collection/:path
