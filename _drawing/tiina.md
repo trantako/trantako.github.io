@@ -8,7 +8,7 @@ layout: drawing
 ---
 
 <br />
-<div id="imageSliderHor1" class='twentytwenty-container'>
+<div id="imageSliderHor1">
   <img src="/assets/images/drawing/tiina_photo.jpg" style="transition: none; webkit-transition: none">
   <img src="/assets/images/drawing/tiina_edited.jpg" style="transition: none; webkit-transition: none">
 </div>
@@ -19,7 +19,7 @@ layout: drawing
 > Move the slider to see the difference between the photo and the final, edited pencil drawing.
 
 <br />
-<div id="imageSliderHor2" class='twentytwenty-container'>
+<div id="imageSliderHor2">
   <img src="/assets/images/drawing/tiina_scanned.jpg" style="transition: none; webkit-transition: none">
   <img src="/assets/images/drawing/tiina_edited.jpg" style="transition: none; webkit-transition: none">
 </div>

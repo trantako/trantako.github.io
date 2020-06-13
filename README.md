@@ -124,6 +124,60 @@ There are many strategies in getting updates to the theme. To keep this as hassl
 
 To customize things that cannot be configured, the solution is to create local customization files. See the theme [structure](https://mmistakes.github.io/minimal-mistakes/docs/structure/).
 
+## 3rd party components
+
+Before-after image slider: [twenty-twenty](https://github.com/zurb/twentytwenty)
+
+1. In frontmatter, select a custom layout:
+```
+layout: drawing
+```
+
+2. In markdown, use like this:
+```
+<br />
+<div id="imageSliderHor1" class='twentytwenty-container'>
+  <img src="/assets/images/drawing/tiina_scanned.jpg" style="transition: none; webkit-transition: none">
+  <img src="/assets/images/drawing/tiina_edited.jpg" style="transition: none; webkit-transition: none">
+</div>
+
+*"Tiina". Pencil on paper, 2015.* 
+{: style="text-align: center;"}
+```
+
+> Style transition needs to be disabled as shown above, else transitions are applied to sliding.
+
+> In _layouts, you'll find a custom layout *drawing.html* that loads and configures javascript for the slider.
+
+The way to initialize the plugin according to instructions does not work in markdown:
+```
+<script>
+$(function(){
+  $("#container1").twentytwenty();
+});
+</script>
+```
+
+This results to invisible slider and an error in Chrome devtools:
+```
+jquery-3.2.1.min.js:2 Uncaught TypeError: $(...).twentytwenty is not a function
+    at HTMLDocument.<anonymous> (VM257 heidi:314)
+    at j (jquery-3.2.1.min.js:2)
+    at k (jquery-3.2.1.min.js:2)
+```
+
+The case seems a bit similar than this, although we are not dealing with Wordpress here:
+
+> When you use WordPress’ built-in jQuery, it’s automatically loaded in noConflict mode, where the $ shortcut isn’t available. Usually, you can get around this by wrapping the JavaScript:
+>
+>```
+>jQuery( document ).ready( function( $ ) {
+>  // the $ shortcut is available within this function
+>} );
+>```
+
+
+
 ## Experiences
 
 After using this setup for a couple of months, I am happy with it. Creating new content is efficient and everything is simple enough and works smoothly.
