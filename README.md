@@ -166,7 +166,7 @@ jquery-3.2.1.min.js:2 Uncaught TypeError: $(...).twentytwenty is not a function
     at k (jquery-3.2.1.min.js:2)
 ```
 
-The case seems a bit similar than this, although we are not dealing with Wordpress here:
+The case seems a bit similar than this, although we are not dealing with WordPress here:
 
 > When you use WordPress’ built-in jQuery, it’s automatically loaded in noConflict mode, where the $ shortcut isn’t available. Usually, you can get around this by wrapping the JavaScript:
 >
@@ -176,7 +176,19 @@ The case seems a bit similar than this, although we are not dealing with Wordpre
 >} );
 >```
 
+The image slider solution also has a timing issue: document.ready may be called before images are loaded, which results to an empty slider. This problem does not appear when developing and testing the site locally as then images are loaded from disk, not from the network. But, immediately after publishing the site and testing with an empty image cache, the sliders tend to stay inivisible until page refresh or window resize triggers an update.
 
+As a solution, we've added this to *jquery.twentytwenty.js* file:
+```
+      $('.twentytwenty-container').imagesLoaded( function() {
+        adjustSlider(sliderPct);
+      });
+```
+
+And this to *drawing.html*:
+```
+<script src="/assets/js/imagesloaded/imagesloaded.pkgd.min.js"></script>
+```
 
 ## Experiences
 

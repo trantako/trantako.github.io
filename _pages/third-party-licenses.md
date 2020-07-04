@@ -9,5 +9,6 @@ author_profile: true
 
 * Twenty twenty image comparison slider
 
-* jQuery
+* ImagesLoaded
 
+* jQuery
