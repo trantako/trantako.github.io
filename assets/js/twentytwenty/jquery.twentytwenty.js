@@ -81,19 +81,11 @@
         return minMaxNumber(sliderPercentage, 0, 1);
       };
 
-
       $(window).on("resize.twentytwenty", function(e) {
-        console.log( "resize.twentytwenty" );
-        adjustSlider(sliderPct);
-      });
-
-      $(window).on("imagesLoaded.twentytwenty", function(e) {
-        console.log( "imagesLoaded.twentytwenty" );
         adjustSlider(sliderPct);
       });
 
       $('.twentytwenty-container').imagesLoaded( function() {
-        console.log( "imagesLoaded internal" );
         adjustSlider(sliderPct);
       });
 
