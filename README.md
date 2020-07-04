@@ -158,7 +158,7 @@ $(function(){
 </script>
 ```
 
-This results to invisible slider and an error in Chrome devtools:
+This results to invisible slider and an error in Chrome developer tools:
 ```
 jquery-3.2.1.min.js:2 Uncaught TypeError: $(...).twentytwenty is not a function
     at HTMLDocument.<anonymous> (VM257 heidi:314)

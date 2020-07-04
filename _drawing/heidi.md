@@ -13,10 +13,10 @@ layout: drawing
   <img src="/assets/images/drawing/heidi_edited.jpg" style="transition: none; webkit-transition: none">
 </div>
 
-*"Heidi". Pencil on paper, 2015.* 
+*"Heidi". Pencil on paper, 2015.*
 {: style="text-align: center;"}
 
-> Move the slider to see the difference between the original, scanned pencil drawing and the final, edited image file.
+> Move the slider to see the difference between the original, scanned pencil drawing, and the final, edited image file.
 
 Edits:
 - white balance (remove the yellow hue of the scanned image)
