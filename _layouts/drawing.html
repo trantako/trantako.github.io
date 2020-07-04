@@ -116,6 +116,7 @@ $('.twentytwenty-container').imagesLoaded( function() {
 
 <script>
   $('.twentytwenty-container').imagesLoaded( function() {
+    console.log( "imagesLoaded" );
     $(window).trigger("resize.twentytwenty");
   });
 </script>
@@ -136,6 +137,7 @@ $('.twentytwenty-container').imagesLoaded( function() {
 
 <script>
   jQuery(document).ready(function($) {
+    console.log( "documentReady" );
     $("#imageSliderHor1").twentytwenty({
         default_offset_pct: 0.1,      // How much of the "before" image is visible when the page loads.
         orientation: 'horizontal',    // Orientation of the "before" and "after" images ('horizontal' or 'vertical').
