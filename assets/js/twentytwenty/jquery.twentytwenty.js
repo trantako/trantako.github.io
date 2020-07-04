@@ -87,6 +87,16 @@
         adjustSlider(sliderPct);
       });
 
+      $(window).on("imagesLoaded.twentytwenty", function(e) {
+        console.log( "imagesLoaded.twentytwenty" );
+        adjustSlider(sliderPct);
+      });
+
+      $('.twentytwenty-container').imagesLoaded( function() {
+        console.log( "imagesLoaded internal" );
+        adjustSlider(sliderPct);
+      });
+
       var offsetX = 0;
       var offsetY = 0;
       var imgWidth = 0;
